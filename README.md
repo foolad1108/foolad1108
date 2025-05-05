@@ -5,7 +5,7 @@
 <h1 align="center">🦾 Foolad1108 | Blockchain Architect</h1>
 
 <p align="center">
-  <em>"In the neon grid, my code is the rebellion that reshapes reality."</em>
+  <em>"In the neon grid, my code is the rebellion that rewrites reality."</em>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ## 🌌 Who Am I?
-I’m a **blockchain architect** crafting decentralized systems in a cyberpunk universe. From gas-optimized **Ethereum** smart contracts to lightning-fast **Solana** programs, I build DApps, DeFi protocols, DAOs, cross-chain bridges, and ZK-powered solutions that redefine the digital frontier. Like a coder in the *Matrix*, I see the world as streams of code—ready to be hacked, optimized, and decentralized.
+I’m a **blockchain architect** forging decentralized systems in a cyberpunk universe. From gas-optimized **Ethereum** smart contracts to lightning-fast **Solana** programs, I build DApps, DeFi protocols, DAOs, cross-chain bridges, and ZK-powered solutions that redefine the digital frontier. Like a coder in the *Matrix*, I see reality as streams of code—ready to be hacked, optimized, and decentralized.
 
 - 💻 **Profession**: Blockchain Developer | Smart Contracts | DeFi | NFTs | DAOs | ZK Proofs
 - ⚡ **Interests**: Cyberpunk aesthetics, decentralized innovation, metaverse, strategic games
@@ -52,12 +52,12 @@ My tech stack is a neon-lit arsenal of blockchain mastery, full-stack prowess, a
 ---
 
 ## 🏆 Featured Projects
-These are my creations—each a neon monument to decentralized innovation, built to showcase the full spectrum of Web3.
+These are my neon-forged creations, each a beacon of decentralized innovation showcasing the full power of Web3.
 
 ### 💸 DeFi Lending Protocol
-- **What**: A decentralized lending platform on Arbitrum Sepolia, enabling collateralized borrowing with real-time pricing.
+- **What**: A decentralized lending platform on Arbitrum Sepolia for collateralized borrowing with real-time pricing.
 - **Tech**: Solidity, Chainlink, Foundry, OpenZeppelin, React, Next.js, The Graph, Tailwind CSS, GitHub Actions
-- **Impact**: Reduced liquidation risks with Chainlink oracles; 20% gas savings via optimized contracts
+- **Impact**: Secure liquidations with Chainlink oracles; 20% gas savings via optimized contracts
 - **Links**: [Repo](https://github.com/foolad1108/defi-lending) | [Demo](https://defi-lending.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/defi-lending?style=social" alt="Stars"/>
 
@@ -89,7 +89,7 @@ These are my creations—each a neon monument to decentralized innovation, built
 - **Links**: [Repo](https://github.com/foolad1108/metaverse-game) | [Demo](https://metaverse.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/metaverse-game?style=social" alt="Stars"/>
 
-> *More neon creations in the works: Modular blockchains, AI-powered DeFi, and beyond!*
+> *More neon creations in the pipeline: Modular blockchains, AI-driven DeFi, and beyond!*
 
 ---
 
@@ -106,7 +106,7 @@ These are my creations—each a neon monument to decentralized innovation, built
 - 🌍 **Open Source Contributor**: Contributed to Solana Labs, OpenZeppelin, Chainlink, and Wormhole.
 - 📚 **Mentor**: Guided 100+ developers in Solana and Ethereum bootcamps.
 - 🏆 **ETHGlobal Finalist 2024**: Developed a cross-chain bridge for NFTs.
-- 🚀 **Solana Bootcamp Mentor 2024**: Taught Rust and Anchor to aspiring Web3 devs.
+- 🚀 **Solana Bootcamp Mentor 2024**: Taught Rust and Anchor to Web3 devs.
 
 ---
 
@@ -117,7 +117,7 @@ The decentralized future is mine to shape, one line of code at a time.
 ---
 
 ## 📬 Let’s Connect
-Want to hack the decentralized grid together? Let’s talk blockchain, cyberpunk, or world-changing ideas!
+Ready to hack the decentralized grid? Let’s talk blockchain, cyberpunk, or world-changing ideas!
 
 - ✉️ **Email**: reza.foolad1108@gmail.com
 - 💬 **Telegram**: [@foolad888](https://t.me/foolad888)
@@ -144,4 +144,4 @@ Want to hack the decentralized grid together? Let’s talk blockchain, cyberpunk
 ---
 
 *Last updated: May 2025*  
-*Crafted in the neon heart of the decentralized matrix.*
+*Forged in the neon heart of the decentralized matrix.*
