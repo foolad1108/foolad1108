@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/neon-matrix-banner.gif" alt="Neon Matrix Cyberpunk Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Neon Matrix Cyberpunk Banner" width="800"/>
 </p>
 
 <h1 align="center">🦾 Foolad1108 | Blockchain Architect</h1>
