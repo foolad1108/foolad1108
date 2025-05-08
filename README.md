@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Neon Matrix Cyberpunk Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Deep Matrix Cyberpunk Banner" width="600"/>
 </p>
 
 <h1 align="center">Foolad1108 | Web3 Architect</h1>
@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%2300FF00.svg?style=flat-square&logo=linkedin&labelColor=%2300FF00&color=%23E0FFFF" alt="LinkedIn"/></a>
-  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%23800080.svg?style=flat-square&logo=telegram&labelColor=%23800080&color=%23E0FFFF" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2300B7EB.svg?style=flat-square&logo=google-chrome&labelColor=%2300B7EB&color=%23E0FFFF" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23FF0000.svg?style=flat-square&logo=x&labelColor=%23FF0000&color=%23E0FFFF" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%2300CC00.svg?style=flat-square&logo=linkedin&labelColor=%2300CC00&color=%23F5F6F5" alt="LinkedIn"/></a>
+  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%236600CC.svg?style=flat-square&logo=telegram&labelColor=%236600CC&color=%23F5F6F5" alt="Telegram"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2300FFFF.svg?style=flat-square&logo=google-chrome&labelColor=%2300FFFF&color=%23F5F6F5" alt="Website"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23CC0000.svg?style=flat-square&logo=x&labelColor=%23CC0000&color=%23F5F6F5" alt="X"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=00CC00" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300FF00.svg?style=flat-square&labelColor=%2300FF00&color=%23E0FFFF" alt="FitCipher"/>
+  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300CC00.svg?style=flat-square&labelColor=%2300CC00&color=%23F5F6F5" alt="FitCipher"/>
 </p>
 
 ---
@@ -38,14 +38,14 @@ My arsenal dominates the decentralized frontier, each tool a jewel in the Matrix
 
 | **Category**         | **Technologies**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| 🟢 **Blockchain**    | <img src="https://img.shields.io/badge/Solidity-%2300FF00.svg?style=flat-square&logo=solidity&labelColor=%2300FF00&color=%23E0FFFF" alt="Solidity"/> Gas-optimized contracts<br><img src="https://img.shields.io/badge/Rust-%2300FF00.svg?style=flat-square&logo=rust&labelColor=%2300FF00&color=%23E0FFFF" alt="Rust"/> High-performance chains<br><img src="https://img.shields.io/badge/Move-%2300FF00.svg?style=flat-square&labelColor=%2300FF00&color=%23E0FFFF" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%2300FF00.svg?style=flat-square&logo=chainlink&labelColor=%2300FF00&color=%23E0FFFF" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%2300FF00.svg?style=flat-square&logo=ipfs&labelColor=%2300FF00&color=%23E0FFFF" alt="IPFS"/> Decentralized storage |
-| 🟢 **AI**            | <img src="https://img.shields.io/badge/TensorFlow-%23800080.svg?style=flat-square&logo=tensorflow&labelColor=%23800080&color=%23E0FFFF" alt="TensorFlow"/> Predictive models<br><img src="https://img.shields.io/badge/PyTorch-%23800080.svg?style=flat-square&logo=pytorch&labelColor=%23800080&color=%23E0FFFF" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%23800080.svg?style=flat-square&logo=python&labelColor=%23800080&color=%23E0FFFF" alt="Python"/> Data pipelines |
-| 🟢 **Frontend**      | <img src="https://img.shields.io/badge/SvelteKit-%2300B7EB.svg?style=flat-square&logo=svelte&labelColor=%2300B7EB&color=%23E0FFFF" alt="SvelteKit"/> Reactive UIs<br><img src="https://img.shields.io/badge/TypeScript-%2300B7EB.svg?style=flat-square&logo=typescript&labelColor=%2300B7EB&color=%23E0FFFF" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%2300B7EB.svg?style=flat-square&logo=tailwind-css&labelColor=%2300B7EB&color=%23E0FFFF" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%2300B7EB.svg?style=flat-square&labelColor=%2300B7EB&color=%23E0FFFF" alt="Wagmi"/> Web3 hooks |
-| 🟢 **Backend**       | <img src="https://img.shields.io/badge/Node.js-%23FF0000.svg?style=flat-square&logo=node.js&labelColor=%23FF0000&color=%23E0FFFF" alt="Node.js"/> Scalable APIs<br><img src="https://img.shields.io/badge/FastAPI-%23FF0000.svg?style=flat-square&logo=fastapi&labelColor=%23FF0000&color=%23E0FFFF" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%23FF0000.svg?style=flat-square&logo=supabase&labelColor=%23FF0000&color=%23E0FFFF" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23FF0000.svg?style=flat-square&logo=graphql&labelColor=%23FF0000&color=%23E0FFFF" alt="GraphQL"/> Flexible queries |
-| 🟢 **DevOps/Security** | <img src="https://img.shields.io/badge/Docker-%2300FF00.svg?style=flat-square&logo=docker&labelColor=%2300FF00&color=%23E0FFFF" alt="Docker"/> Containerized deployments<br><img src="https://img.shields.io/badge/AWS-%2300FF00.svg?style=flat-square&logo=amazon-aws&labelColor=%2300FF00&color=%23E0FFFF" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%2300FF00.svg?style=flat-square&labelColor=%2300FF00&color=%23E0FFFF" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%2300FF00.svg?style=flat-square&labelColor=%2300FF00&color=%23E0FFFF" alt="Slither"/> Security analysis |
+| 🔗 **Blockchain**    | <img src="https://img.shields.io/badge/Solidity-%2300CC00.svg?style=flat-square&logo=solidity&labelColor=%2300CC00&color=%23F5F6F5" alt="Solidity"/> Gas-optimized contracts<br><img src="https://img.shields.io/badge/Rust-%2300CC00.svg?style=flat-square&logo=rust&labelColor=%2300CC00&color=%23F5F6F5" alt="Rust"/> High-performance chains<br><img src="https://img.shields.io/badge/Move-%2300CC00.svg?style=flat-square&labelColor=%2300CC00&color=%23F5F6F5" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%2300CC00.svg?style=flat-square&logo=chainlink&labelColor=%2300CC00&color=%23F5F6F5" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%2300CC00.svg?style=flat-square&logo=ipfs&labelColor=%2300CC00&color=%23F5F6F5" alt="IPFS"/> Decentralized storage |
+| 🔗 **AI**            | <img src="https://img.shields.io/badge/TensorFlow-%236600CC.svg?style=flat-square&logo=tensorflow&labelColor=%236600CC&color=%23F5F6F5" alt="TensorFlow"/> Predictive models<br><img src="https://img.shields.io/badge/PyTorch-%236600CC.svg?style=flat-square&logo=pytorch&labelColor=%236600CC&color=%23F5F6F5" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%236600CC.svg?style=flat-square&logo=python&labelColor=%236600CC&color=%23F5F6F5" alt="Python"/> Data pipelines |
+| 🔗 **Frontend**      | <img src="https://img.shields.io/badge/SvelteKit-%2300FFFF.svg?style=flat-square&logo=svelte&labelColor=%2300FFFF&color=%23F5F6F5" alt="SvelteKit"/> Reactive UIs<br><img src="https://img.shields.io/badge/TypeScript-%2300FFFF.svg?style=flat-square&logo=typescript&labelColor=%2300FFFF&color=%23F5F6F5" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%2300FFFF.svg?style=flat-square&logo=tailwind-css&labelColor=%2300FFFF&color=%23F5F6F5" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%2300FFFF.svg?style=flat-square&labelColor=%2300FFFF&color=%23F5F6F5" alt="Wagmi"/> Web3 hooks |
+| 🔗 **Backend**       | <img src="https://img.shields.io/badge/Node.js-%23CC0000.svg?style=flat-square&logo=node.js&labelColor=%23CC0000&color=%23F5F6F5" alt="Node.js"/> Scalable APIs<br><img src="https://img.shields.io/badge/FastAPI-%23CC0000.svg?style=flat-square&logo=fastapi&labelColor=%23CC0000&color=%23F5F6F5" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%23CC0000.svg?style=flat-square&logo=supabase&labelColor=%23CC0000&color=%23F5F6F5" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23CC0000.svg?style=flat-square&logo=graphql&labelColor=%23CC0000&color=%23F5F6F5" alt="GraphQL"/> Flexible queries |
+| 🔗 **DevOps/Security** | <img src="https://img.shields.io/badge/Docker-%2300CC00.svg?style=flat-square&logo=docker&labelColor=%2300CC00&color=%23F5F6F5" alt="Docker"/> Containerized deployments<br><img src="https://img.shields.io/badge/AWS-%2300CC00.svg?style=flat-square&logo=amazon-aws&labelColor=%2300CC00&color=%23F5F6F5" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%2300CC00.svg?style=flat-square&labelColor=%2300CC00&color=%23F5F6F5" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%2300CC00.svg?style=flat-square&labelColor=%2300CC00&color=%23F5F6F5" alt="Slither"/> Security analysis |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%2300FF00.svg?style=flat-square&labelColor=%2300FF00&color=%23E0FFFF" alt="Neon Grid"/>
+  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%2300CC00.svg?style=flat-square&labelColor=%2300CC00&color=%23F5F6F5" alt="Neon Grid"/>
 </p>
 
 ---
@@ -109,10 +109,10 @@ Let’s shape the decentralized future.
   <img src="data:image/png;base64,TyBMb3JkLCBoYXN0ZW4gdGhlIHJlbGllZiBvZiBvdXIgSW1hbQ==" alt="Cipher" style="display:none;"/>
   <!-- Sacred cipher: 1108, guided by the neon triad -->
   <svg width="100" height="60" style="margin: 10px;">
-    <circle cx="50" cy="30" r="25" fill="none" stroke="#00f" stroke-width="2" opacity="0.5"/>
+    <circle cx="50" cy="30" r="25" fill="none" stroke="#00FFFF" stroke-width="2" opacity="0.5"/>
     <circle cx="50" cy="30" r="20" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.5"/>
-    <circle cx="50" cy="30" r="15" fill="none" stroke="#0f0" stroke-width="2" opacity="0.5"/>
-    <text x="42" y="35" fill="#fff" font-size="14" font-family="Arial" opacity="0" class="cipher-text">غ ق ح</text>
+    <circle cx="50" cy="30" r="15" fill="none" stroke="#00CC00" stroke-width="2" opacity="0.5"/>
+    <text x="42" y="35" fill="#F5F6F5" font-size="14" font-family="Arial" opacity="0" class="cipher-text">غ ق ح</text>
     <style>
       svg:hover .cipher-text { opacity: 1; transition: opacity 0.5s; }
     </style>
