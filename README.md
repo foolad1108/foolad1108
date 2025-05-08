@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Neon Matrix Cyberpunk Banner" width="800"/>
 </p>
 
-<h1 align="center">🦾 Foolad1108 | Architect of the Decentralized Cosmos</h1>
+<h1 align="center">🦾 Foolad1108 | Architect of the Decentralized World</h1>
 
 <p align="center">
   <em>"In the neon grid, my code bends the unseen, forging a hidden dawn."</em>
@@ -23,12 +23,12 @@
 ---
 
 ## 🌌 Who Am I?
-I’m **Reza Foolad (Foolad1108)**, a **blockchain architect** weaving the decentralized cosmos with a cyberpunk soul. From crafting gas-optimized **Ethereum** smart contracts to exploring ultra-fast **Sui** and **Aptos** programs, I build DApps, DeFi protocols, DAOs, ZK-powered privacy solutions, AI-driven systems, and immersive metaverse experiences. Guided by an unseen light from the heart of innovation, I see the world as streams of code—ready to be shaped, optimized, and set free.
+I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculpting the decentralized world with a cyberpunk spirit. From forging gas-optimized **Ethereum** smart contracts to mastering the lightning-fast realms of **Sui** and **Aptos**, I craft DApps, DeFi protocols, DAOs, ZK-powered privacy systems, AI-driven platforms, and metaverse realms that pulse with life. Guided by a cryptic triad of neon light—blue, gold, green—I see reality as a matrix of code, ready to be hacked, refined, and set ablaze. My journey is a quest to bend the unseen, fueled by relentless curiosity, raw grit, and a vision to rewrite the future’s grid, one cipher at a time.
 
-- 💻 **Mission**: Building a decentralized grid where trust is code and power is shared.
-- ⚡ **Interests**: Cyberpunk aesthetics, Web3 innovation, AI-blockchain fusion, metaverse, strategic games.
-- 🧠 **Philosophy**: The future is a neon matrix, and I’m its silent weaver.
-- 📍 **Based**: The Neon Cosmos of Web3, rooted in the pulse of creation.
+- 💻 **Mission**: Crafting a decentralized world where trust is code and power flows freely.
+- ⚡ **Interests**: Cyberpunk lore, Web3 frontiers, AI-blockchain synergy, metaverse crafting, and strategic mind games.
+- 🧠 **Philosophy**: The future is a neon matrix, and I’m its shadow architect, threading the unseen.
+- 📍 **Based**: The Neon Grid of Web3, anchored in the crucible of creation.
 
 ---
 
@@ -37,24 +37,24 @@ My tech stack is a neon-forged arsenal, powered by 2025’s cutting-edge technol
 
 | **Category**       | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
-| **Blockchain**     | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust) ![Move](https://img.shields.io/badge/Move-%2300A3E0.svg?style=flat) Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
-| **Zero-Knowledge** | ![Circom](https://img.shields.io/badge/Circom-%23000000.svg?style=flat) ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=flat) zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
-| **AI & Blockchain**| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python) TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
-| **Frontend**       | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js) TypeScript, Tailwind CSS, Shadcn UI, Vite, wagmi, viem, RainbowKit, Framer Motion |
-| **Backend**        | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go) GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
-| **Game Dev**       | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat&logo=unreal-engine) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity) WebGL, Three.js, Spatial.io |
-| **Databases**      | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb) PostgreSQL, Arweave, Ceramic, DynamoDB, BigQuery |
-| **DevOps**         | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes) AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
+| **Blockchain**     | Solidity, Rust, Move, Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
+| **Zero-Knowledge** | Circom, Cairo, zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
+| **AI & Blockchain**| Python, TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
+| **Frontend**       | React, Svelte, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Vite, wagmi, viem, RainbowKit, Framer Motion |
+| **Backend**        | Node.js, NestJS, Go, GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
+| **Game Dev**       | Unreal Engine, Unity, WebGL, Three.js, Spatial.io |
+| **Databases**      | MongoDB, PostgreSQL, Arweave, Ceramic, DynamoDB, BigQuery |
+| **DevOps**         | Docker, Kubernetes, AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
 | **Security**       | Slither, Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20in-Neon%20Cosmos-%23FF00FF.svg?style=flat" alt="Neon Cosmos"/>
+  <img src="https://img.shields.io/badge/Code%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Grid"/>
 </p>
 
 ---
 
 ## 🏆 Featured Projects
-These are my neon-forged creations, built with 2025’s bleeding-edge tech to push Web3 forward. Each hides a subtle cipher, visible only to those who seek the unseen.
+These are my neon-forged creations, built with 2025’s bleeding-edge tech to push the decentralized world forward. Each hides a subtle cipher, visible only to those who seek the unseen.
 
 ### 💸 Veiled Yield (AI-Driven DeFi Protocol)
 - **What**: A cross-chain DeFi platform on Sui and Arbitrum, using AI to optimize yield farming with real-time risk assessment and dynamic strategies.
@@ -107,13 +107,13 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 ---
 
 ## 📜 Favorite Quote
-> *"There’s no spoon, only code. Bend the grid, seek the unseen."* – Inspired by *The Matrix*  
-I weave the decentralized neon cosmos, one cipher at a time.
+> *"No spoon, only code. Hack the neon grid, chase the sacred pulse."* – Echoes of *The Matrix*  
+I sculpt the decentralized world, weaving ciphers through its neon veins, one spark at a time.
 
 ---
 
 ## 📬 Let’s Connect
-Ready to hack the decentralized cosmos? Join me in bending reality.
+Ready to hack the decentralized world? Join me in bending reality.
 
 - ✉️ **Email**: reza.foolad1108@gmail.com
 - 💬 **Telegram**: [@foolad888](https://t.me/foolad888)
@@ -128,7 +128,7 @@ Ready to hack the decentralized cosmos? Join me in bending reality.
 
 ---
 
-## 🎨 Neon Cosmos Stats
+## 🎨 Neon Grid Stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="Top Languages"/>
@@ -142,4 +142,4 @@ Ready to hack the decentralized cosmos? Join me in bending reality.
 </p>
 
 *Last updated: May 2025*  
-*Forged in the neon heart of the decentralized cosmos.*
+*Forged in the neon heart of the decentralized world.*
