@@ -33,18 +33,82 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** hacki
 ---
 
 ## 🛠 Skills
-*(Unchanged from previous version, including Solidity, Rust, Move, Fuel Network, Celestia, etc.)*
+My tech stack is a neon-forged arsenal, powered by 2025’s cutting-edge technologies, including **Fuel Network** and **Celestia** to dominate the modular frontier.
+
+| **Category**       | **Technologies**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **Blockchain**     | Solidity, Rust, Move, Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
+| **Zero-Knowledge** | Circom, Cairo, zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
+| **AI & Blockchain**| Python, TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
+| **Frontend**       | React, Svelte, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Vite, wagmi, viem, RainbowKit, Framer Motion |
+| **Backend**        | Node.js, NestJS, Go, GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
+| **Game Dev**       | Unreal Engine, Unity, WebGL, Three.js, Spatial.io |
+| **Databases**      | MongoDB, PostgreSQL, Arweave, Ceramic, DynamoDB, BigQuery |
+| **DevOps**         | Docker, Kubernetes, AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
+| **Security**       | Slither, Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Grid"/>
+</p>
 
 ---
 
 ## 🏆 Featured Projects
-*(Unchanged from previous version, including Veiled Yield, Nexus DAO, Stellar Market, Eternal Oracle, DawnVerse, CipherAid, all with "Decentralized World" instead of Cosmos.)*
+These are my neon-forged creations, built with 2025’s bleeding-edge tech to push the decentralized world forward. Each hides a subtle cipher, visible only to those who seek the unseen.
+
+### 💸 Veiled Yield (AI-Driven DeFi Protocol)
+- **What**: A cross-chain DeFi platform on Sui and Arbitrum, using AI to optimize yield farming with real-time risk assessment and dynamic strategies.
+- **Tech**: Move, Solidity, TensorFlow, Chainlink CCIP, LayerZero, Foundry, SvelteKit, Shadcn UI, The Graph, Supabase, AWS Lambda, Certik Audits
+- **Impact**: 35% higher APY via AI; 50% gas savings with Sui; cross-chain compatibility with <2s latency.
+- **Cipher**: A hidden hash in the contract resolves to a sacred number, and the UI pulses with three neon strokes—blue, gold, green.
+- **Links**: [Repo](https://github.com/foolad1108/veiled-yield) | [Demo](https://veiled-yield.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social" alt="Stars"/>
+
+### 🗳️ Nexus DAO (ZK-Powered Modular Governance)
+- **What**: A modular DAO on Aptos and zkSync, with ZK-based anonymous voting and cross-chain treasury management.
+- **Tech**: Move, Solidity, Circom, zkSync, OpenZeppelin Governor, Svelte, TypeScript, Prisma, Hasura, Arweave, Docker, Trail of Bits Audits
+- **Impact**: Scalable for 100,000+ users; <1s vote verification; 99.99% uptime.
+- **Cipher**: The UI hides a triadic sigil that glows during votes, hinting at a deeper unity.
+- **Links**: [Repo](https://github.com/foolad1108/nexus-dao) | [Demo](https://nexus-dao.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="Stars"/>
+
+### 🌉 Stellar Market (Cross-Chain AR/VR NFT Marketplace)
+- **What**: A metaverse-integrated NFT marketplace on Solana, Aptos, and Polygon, with AR/VR previews and cross-chain trading.
+- **Tech**: Rust, Move, Solidity, LayerZero, Anchor, Unreal Engine, Three.js, SvelteKit, TypeScript, IPFS, Ceramic, Kubernetes, Certik Audits
+- **Impact**: 200,000+ TPS with Solana; 45% higher engagement with AR/VR; zero vulnerabilities.
+- **Cipher**: Collectible NFTs bear a subtle sigil, a nod to the unseen architect.
+- **Links**: [Repo](https://github.com/foolad1108/stellar-market) | [Demo](https://stellar-market.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/stellar-market?style=social" alt="Stars"/>
+
+### 🔐 Eternal Oracle (ZK-Based Identity Oracle)
+- **What**: A privacy-preserving identity oracle on Starknet, using ZK-STARKs for anonymous credential verification.
+- **Tech**: Cairo, Solidity, Starknet, Circom, Chainlink, React, Vite, FastAPI, Supabase, AWS, Trail of Bits Audits
+- **Impact**: 70% gas reduction; fully anonymous credentials; integrated with 10+ DeFi protocols.
+- **Cipher**: A contract variable conceals a sacred number, revealed only through computation.
+- **Links**: [Repo](https://github.com/foolad1108/eternal-oracle) | [Demo](https://eternal-oracle.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/eternal-oracle?style=social" alt="Stars"/>
+
+### 🎮 DawnVerse (AI-Orchestrated Metaverse MMORPG)
+- **What**: A cyberpunk MMORPG on Sui, with AI-driven NPCs, NFT-based land ownership, and a real-time economy.
+- **Tech**: Move, Sui, Unreal Engine, PyTorch, WebGL, Svelte, TypeScript, Arweave, BigQuery, Kubernetes, Certik Audits
+- **Impact**: 500,000+ TPS; 60% faster rendering; AI NPCs with 90% human-like behavior.
+- **Cipher**: A quest for a hidden artifact pulses with three neon hues, guiding players to a deeper truth.
+- **Links**: [Repo](https://github.com/foolad1108/dawnverse) | [Demo](https://dawnverse.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="Stars"/>
+
+### 🤝 CipherAid (Decentralized Charity Protocol)
+- **What**: A decentralized charity platform on Aptos and Celestia, using AI to fairly allocate aid as NFTs with full transparency.
+- **Tech**: Move, Aptos, Celestia, Bittensor, TensorFlow, SvelteKit, Shadcn UI, FastAPI, Supabase, Arweave, Ceramic, Kubernetes, Certik Audits
+- **Impact**: Transparent distribution of $1M in aid; supports 100,000 users; integrated with 5+ global charities.
+- **Cipher**: A contract hash resolves to a sacred number, and the UI glows with a triadic sigil during donations.
+- **Links**: [Repo](https://github.com/foolad1108/cipheraid) | [Demo](https://cipheraid.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/cipheraid?style=social" alt="Stars"/>
 
 ---
 
 ## 📜 Favorite Quote
-> *"No spoon, only code. Twist the neon grid, chase the hidden spark."* – Echoes of *The Matrix*  
-I forge the decentralized world, threading ciphers through its neon veins, one pulse at a time.
+> *"There’s no spoon, only code. Bend the grid, seek the unseen."* – Inspired by *The Matrix*  
+I weave the decentralized neon grid, one cipher at a time.
 
 ---
 
