@@ -33,22 +33,22 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculp
 ---
 
 ## 🛠 Skills
-My tech stack is a neon-forged arsenal, powered by 2025’s cutting-edge technologies, including **Fuel Network** and **Celestia** to dominate the modular frontier.
+My neon-forged arsenal is a curated stack of 2025’s bleeding-edge technologies, designed to dominate the decentralized world. From modular blockchains to AI-blockchain fusion, each tool is a cipher in my quest to hack the neon grid.
 
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **Blockchain**     | Solidity, Rust, Move, Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
-| **Zero-Knowledge** | Circom, Cairo, zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
-| **AI & Blockchain**| Python, TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
-| **Frontend**       | React, Svelte, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Vite, wagmi, viem, RainbowKit, Framer Motion |
-| **Backend**        | Node.js, NestJS, Go, GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
-| **Game Dev**       | Unreal Engine, Unity, WebGL, Three.js, Spatial.io |
-| **Databases**      | MongoDB, PostgreSQL, Arweave, Ceramic, DynamoDB, BigQuery |
-| **DevOps**         | Docker, Kubernetes, AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
-| **Security**       | Slither, Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
+| **Category**            | **Technologies**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Blockchain**          | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust) ![Move](https://img.shields.io/badge/Move-%2300A3E0.svg?style=flat) Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
+| **Zero-Knowledge**      | ![Circom](https://img.shields.io/badge/Circom-%23000000.svg?style=flat) ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=flat) zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
+| **AI & Blockchain**     | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch) Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
+| **Frontend**            | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js) TypeScript, Tailwind CSS, Shadcn UI, Vite, Wagmi v2, Viem v2, RainbowKit, Framer Motion |
+| **Backend**             | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go) GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
+| **Game Dev**            | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat&logo=unreal-engine) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity) WebGL, Three.js, Spatial.io |
+| **Databases**           | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql) Arweave, Ceramic, DynamoDB, BigQuery |
+| **DevOps**              | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes) AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
+| **Security**            | ![Slither](https://img.shields.io/badge/Slither-%23000000.svg?style=flat) Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Grid"/>
+  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Grid"/>
 </p>
 
 ---
