@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Luxury Cyberpunk Jewel Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Ultra-Neon Cyberpunk Jewel Banner" width="600"/>
 </p>
 
 <h1 align="center">Foolad1108 | Web3 Architect</h1>
@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%231E90FF.svg?style=flat&logo=linkedin&labelColor=%231E90FF&color=%23E6E6FA" alt="LinkedIn"/></a>
-  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%234B0082.svg?style=flat&logo=telegram&labelColor=%234B0082&color=%23E6E6FA" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2339FF14.svg?style=flat&logo=google-chrome&labelColor=%2339FF14&color=%23E6E6FA" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%230A0F14.svg?style=flat&logo=x&labelColor=%230A0F14&color=%23E6E6FA" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%2300FF99.svg?style=plastic&logo=linkedin&labelColor=%2300FF99&color=%23FFFFFF" alt="LinkedIn"/></a>
+  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%23CC00FF.svg?style=plastic&logo=telegram&labelColor=%23CC00FF&color=%23FFFFFF" alt="Telegram"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2300CCFF.svg?style=plastic&logo=google-chrome&labelColor=%2300CCFF&color=%23FFFFFF" alt="Website"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23FF3333.svg?style=plastic&logo=x&labelColor=%23FF3333&color=%23FFFFFF" alt="X"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=00A36C" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=00FF99" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300A36C.svg?style=flat&labelColor=%2300A36C&color=%23E6E6FA" alt="FitCipher"/>
+  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300FF99.svg?style=plastic&labelColor=%2300FF99&color=%23FFFFFF" alt="FitCipher"/>
 </p>
 
 ---
