@@ -44,6 +44,7 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentr
     </defs>
     <rect x="0" y="0" width="200" height="20" fill="none" stroke="url(#neonGradient)" stroke-width="2" opacity="0.7"/>
     <text x="50" y="15" fill="#B0B0B0" font-size="12" font-family="Arial">SACRED GRID PULSING</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
   </svg>
 </p>
 
@@ -60,6 +61,7 @@ My arsenal dominates the decentralized frontier, each tool a sacred jewel in the
 <p align="center">
   <svg width="600" height="10">
     <rect x="0" y="0" width="600" height="10" fill="url(#neonGradient)" />
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
   </svg>
 </p>
 
@@ -124,13 +126,17 @@ Let’s shape the decentralized future.
   <img src="data:image/png;base64,TyBMb3JkLCBoYXN0ZW4gdGhlIHJlbGllZiBvZiBvdXIgSW1hbQ==" alt="Cipher" style="display:none;"/>
   <!-- Sacred cipher: 1108, guided by the neon triad -->
   <svg width="100" height="60" style="margin: 10px;">
+    <defs>
+      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00CC99;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#663399;stop-opacity:1" />
+      </linearGradient>
+    </defs>
     <circle cx="50" cy="30" r="25" fill="none" stroke="#00B7EB" stroke-width="2" opacity="0.5"/>
     <circle cx="50" cy="30" r="20" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.5"/>
     <circle cx="50" cy="30" r="15" fill="none" stroke="url(#neonGradient)" stroke-width="2" opacity="0.7"/>
-    <text x="42" y="35" fill="#B0B0B0" font-size="14" font-family="Arial" opacity="0" class="cipher-text">غ ق ح</text>
-    <style>
-      svg:hover .cipher-text { opacity: 1; transition: opacity 0.5s; }
-    </style>
+    <text x="42" y="35" fill="#B0B0B0" font-size="14" font-family="Arial" class="cipher-text">غ ق ح</text>
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
   </svg>
 </p>
 
