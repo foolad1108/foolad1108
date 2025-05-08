@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%2300A36C.svg?style=flat&logo=linkedin&labelColor=%2300A36C&color=%23E6E6FA" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%231E90FF.svg?style=flat&logo=linkedin&labelColor=%231E90FF&color=%23E6E6FA" alt="LinkedIn"/></a>
   <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%234B0082.svg?style=flat&logo=telegram&labelColor=%234B0082&color=%23E6E6FA" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%231E90FF.svg?style=flat&logo=google-chrome&labelColor=%231E90FF&color=%23E6E6FA" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%238B0000.svg?style=flat&logo=x&labelColor=%238B0000&color=%23E6E6FA" alt="X"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2339FF14.svg?style=flat&logo=google-chrome&labelColor=%2339FF14&color=%23E6E6FA" alt="Website"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%230A0F14.svg?style=flat&logo=x&labelColor=%230A0F14&color=%23E6E6FA" alt="X"/></a>
 </p>
 
 <p align="center">
