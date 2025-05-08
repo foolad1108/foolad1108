@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat&logo=telegram" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%23111111.svg?style=flat&logo=google-chrome" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%23FF00FF.svg?style=flat&logo=telegram" alt="Telegram"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%2300FF00.svg?style=flat&logo=google-chrome" alt="Website"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%2300FFFF.svg?style=flat&logo=x" alt="X"/></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ## 🌌 About Me
-I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentralized systems with a cyberpunk heart. I blend code with creativity, crafting DApps, DeFi, and AI-driven platforms on Sui, Polygon, and Aptos that resonate like a silent melody. Forged in discipline, from physical trials to digital realms, I’m guided by a neon triad—blue, gold, green—and a sacred cipher (1108) for those who seek truth in the grid.
+I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentralized systems with a cyberpunk heart. My code hums like a crafted melody, bending the unseen to build DApps, DeFi, and AI-driven platforms on Sui, Polygon, and Aptos. Forged in discipline, I weave the decentralized grid, mentoring devs and contributing to Sui and Chainlink. Guided by a neon triad—blue, gold, green—and a sacred cipher (1108), I craft for those who seek truth in the grid.
 
 - 💻 **Mission**: Build a decentralized world where trust is code.
 - ⚡ **Interests**: Web3, AI-blockchain synergy, cyberpunk aesthetics.
@@ -34,14 +34,15 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentr
 ---
 
 ## 🛠 Skills
-My arsenal is honed for the decentralized frontier, each tool a spark in the neon grid.
+My neon-forged arsenal dominates the decentralized frontier, each tool a spark in the grid.
 
-| **Category**         | **Technologies**                                                       |
-|----------------------|-----------------------------------------------------------------------|
-| **Blockchain**       | Solidity, Rust, Move, Sui, Polygon, Aptos, Chainlink, IPFS, Hardhat   |
-| **AI**               | Python, TensorFlow, PyTorch                                           |
-| **Frontend**         | SvelteKit, TypeScript, Shadcn UI, Tailwind CSS, Wagmi, Viem           |
-| **Backend**          | Node.js, FastAPI, Supabase, GraphQL                                   |
+| **Category**         | **Technologies**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Blockchain**       | <img src="https://img.shields.io/badge/Solidity-%2300FFFF.svg?style=flat&logo=solidity" alt="Solidity"/> Gas-optimized contracts<br><img src="https://img.shields.io/badge/Rust-%2300FFFF.svg?style=flat&logo=rust" alt="Rust"/> High-performance chains<br><img src="https://img.shields.io/badge/Move-%2300FFFF.svg?style=flat" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%2300FFFF.svg?style=flat&logo=chainlink" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%2300FFFF.svg?style=flat&logo=ipfs" alt="IPFS"/> Decentralized storage |
+| **AI**               | <img src="https://img.shields.io/badge/TensorFlow-%23FF00FF.svg?style=flat&logo=tensorflow" alt="TensorFlow"/> Predictive models<br><img src="https://img.shields.io/badge/PyTorch-%23FF00FF.svg?style=flat&logo=pytorch" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%23FF00FF.svg?style=flat&logo=python" alt="Python"/> Data pipelines |
+| **Frontend**         | <img src="https://img.shields.io/badge/SvelteKit-%2300FF00.svg?style=flat&logo=svelte" alt="SvelteKit"/> Reactive UIs<br><img src="https://img.shields.io/badge/TypeScript-%2300FF00.svg?style=flat&logo=typescript" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%2300FF00.svg?style=flat&logo=tailwind-css" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%2300FF00.svg?style=flat" alt="Wagmi"/> Web3 hooks |
+| **Backend**          | <img src="https://img.shields.io/badge/Node.js-%2300FF00.svg?style=flat&logo=node.js" alt="Node.js"/> Scalable APIs<br><img src="https://img.shields.io/badge/FastAPI-%2300FF00.svg?style=flat&logo=fastapi" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%2300FF00.svg?style=flat&logo=supabase" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%2300FF00.svg?style=flat&logo=graphql" alt="GraphQL"/> Flexible queries |
+| **DevOps/Security**  | <img src="https://img.shields.io/badge/Docker-%2300FFFF.svg?style=flat&logo=docker" alt="Docker"/> Containerized deployments<br><img src="https://img.shields.io/badge/AWS-%2300FFFF.svg?style=flat&logo=amazon-aws" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%2300FFFF.svg?style=flat" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%2300FFFF.svg?style=flat" alt="Slither"/> Security analysis |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%2300FFFF.svg?style=flat" alt="Neon Grid"/>
@@ -50,8 +51,8 @@ My arsenal is honed for the decentralized frontier, each tool a spark in the neo
 ---
 
 ## 🌟 Currently Crafting
-- **FitCipher**: A decentralized fitness DApp on Sui and Polygon, blending AI workouts with NFT rewards. The grid pulses with its rhythm.
-- Exploring new ciphers in AI-blockchain synergy and metaverse realms.
+- **FitCipher**: A decentralized fitness DApp on Sui and Polygon, blending AI workouts with NFT rewards, empowering 50,000+ users to own their fitness journey.
+- Pushing boundaries in AI-blockchain synergy and metaverse realms.
 
 ---
 
@@ -78,6 +79,13 @@ My creations push Web3’s boundaries, each hiding a cipher for the worthy.
 - **Impact**: Scalable for 100,000+ users; <1s vote verification.
 - **Links**: [Repo](https://github.com/foolad1108/nexus-dao) | [Demo](https://nexus-dao.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="Stars"/>
+
+---
+
+## 🚀 Other Creations
+- **DawnVerse**: Cyberpunk MMORPG on Sui with AI-driven NPCs.
+- **Eternal Oracle**: ZK-based identity oracle on Starknet.
+- **Stellar Market**: Cross-chain AR/VR NFT marketplace on Solana and Polygon.
 
 ---
 
