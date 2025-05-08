@@ -1,139 +1,139 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Neon Matrix Cyberpunk Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="بنر ماتریکس نئونی سایبرپانک" width="800"/>
 </p>
 
-<h1 align="center">🦾 Foolad1108 | Architect of the Decentralized Cosmos</h1>
+<h1 align="center">🦾 فولاد۱۱۰۸ | معمار جهان غیرمتمرکز</h1>
 
 <p align="center">
-  <em>"In the neon grid, my code bends the unseen, forging a hidden dawn."</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x" alt="X"/></a>
+  <em>"تو شبکه نئونی، کدهای من پنهان رو خم می‌کنن و طلوع مخفی رو می‌سازن."</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="لینکدین"/></a>
+  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram" alt="تلگرام"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome" alt="وبسایت"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x" alt="ایکس"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=brightgreen" alt="بازدیدهای پروفایل"/>
+  <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="دنبال‌کنندگان گیت‌هاب"/>
 </p>
 
 ---
 
-## 🌌 Who Am I?
-I’m **Reza Foolad (Foolad1108)**, a **blockchain architect** weaving the decentralized cosmos with a cyberpunk soul. From crafting gas-optimized **Ethereum** smart contracts to exploring ultra-fast **Sui** and **Aptos** programs, I build DApps, DeFi protocols, DAOs, ZK-powered privacy solutions, AI-driven systems, and immersive metaverse experiences. Guided by an unseen light from the heart of innovation, I see the world as streams of code—ready to be shaped, optimized, and set free.
+## 🌌 کی‌ام من؟
+من **رضا فولاد (فولاد۱۱۰۸)**، یه **معمار بلاکچین** خودآموخته‌ام که با قلب سایبرپانکی، شبکه نئونی جهان غیرمتمرکز رو هک می‌کنم. از ساخت قراردادهای هوشمند **اتریوم** با گاز بهینه تا تسلط روی برنامه‌های فوق‌ سریع **Sui** و **Aptos**، من DAppها، پروتکل‌های DeFi، DAOها، راه‌حل‌های حریم‌خصوصی ZK، سیستم‌های AI-driven، و تجربه‌های متاورسی می‌سازم. با جرقه‌ای مخفی از نبض خلقت—جایی که سه رنگ نئونی به هم می‌رسن—واقعیت رو به‌صورت جریان‌های کد می‌بینم که منتظرن شکل بگیرن، بهینه بشن، و آزاد شن. سفر من با کنجکاوی، پشتکار، و رویای بازنویسی آینده، یه بلاک در هر لحظه، پیش می‌ره.
 
-- 💻 **Mission**: Building a decentralized grid where trust is code and power is shared.
-- ⚡ **Interests**: Cyberpunk aesthetics, Web3 innovation, AI-blockchain fusion, metaverse, strategic games.
-- 🧠 **Philosophy**: The future is a neon matrix, and I’m its silent weaver.
-- 📍 **Based**: The Neon Cosmos of Web3, rooted in the pulse of creation.
+- 💻 **ماموریت**: ساختن یه جهان غیرمتمرکز که اعتمادش کد باشه و قدرت به اشتراک گذاشته بشه.
+- ⚡ **علایق**: زیبایی‌شناسی سایبرپانک، نوآوری Web3، ترکیب AI و بلاکچین، متاورس، بازی‌های استراتژیک.
+- 🧠 **فلسفه**: آینده یه شبکه نئونیه، و من بافنده نامرئی‌شم.
+- 📍 **مکان**: شبکه نئونی Web3، با ریشه تو قلب نوآوری.
 
 ---
 
-## 🛠 Skills
-My tech stack is a neon-forged arsenal, powered by 2025’s cutting-edge technologies, including **Fuel Network** and **Celestia** to dominate the modular frontier.
+## 🛠 مهارت‌ها
+جعبه‌ابزار تکنولوژیم یه زرادخانه نئونی از فناوری‌های برتر ۲۰۲۵ه، با **Fuel Network** و **Celestia** برای تسلط روی مرز مدولار.
 
-| **Category**       | **Technologies**                                                                 |
+| **دسته‌بندی**      | **فناوری‌ها**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
-| **Blockchain**     | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust) ![Move](https://img.shields.io/badge/Move-%2300A3E0.svg?style=flat) Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
-| **Zero-Knowledge** | ![Circom](https://img.shields.io/badge/Circom-%23000000.svg?style=flat) ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=flat) zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
-| **AI & Blockchain**| ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python) TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
-| **Frontend**       | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js) TypeScript, Tailwind CSS, Shadcn UI, Vite, wagmi, viem, RainbowKit, Framer Motion |
-| **Backend**        | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go) GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
-| **Game Dev**       | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat&logo=unreal-engine) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity) WebGL, Three.js, Spatial.io |
-| **Databases**      | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb) PostgreSQL, Arweave, Ceramic, DynamoDB, BigQuery |
-| **DevOps**         | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes) AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
-| **Security**       | Slither, Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
+| **بلاکچین**       | Solidity، Rust، Move، اتریوم، سولانا، Sui، Aptos، Starknet، zkSync، Polygon، Optimism، Arbitrum، Cosmos SDK، Polkadot/Substrate، Fuel Network، Celestia، Vyper، Anchor، Foundry، Hardhat، Chainlink، LayerZero، CCIP، Wormhole، Hyperledger Besu، IPFS، Arweave |
+| **دانش صفر**      | Circom، Cairo، zk-SNARKs، zk-STARKs، Halo2، Plonk، Noir، RISC Zero، zkEVM |
+| **AI و بلاکچین**  | Python، TensorFlow، PyTorch، Fetch.ai، SingularityNET، Ocean Protocol، Bittensor |
+| **فرانت‌اند**      | React، Svelte، Next.js، TypeScript، Tailwind CSS، Shadcn UI، Vite، wagmi، viem، RainbowKit، Framer Motion |
+| **بک‌اند**         | Node.js، NestJS، Go، GraphQL، The Graph، FastAPI، Prisma، Supabase، Hasura |
+| **توسعه بازی**     | Unreal Engine، Unity، WebGL، Three.js، Spatial.io |
+| **دیتابیس**       | MongoDB، PostgreSQL، Arweave، Ceramic، DynamoDB، BigQuery |
+| **DevOps**         | Docker، Kubernetes، AWS، GCP، Azure، Terraform، ArgoCD، GitHub Actions، Alchemy، Infura، QuickNode |
+| **امنیت**         | Slither، Mythril، Echidna، Certik، Trail of Bits، Tenderly، Foundry Fuzzing، OpenZeppelin Defender |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20in-Neon%20Cosmos-%23FF00FF.svg?style=flat" alt="Neon Cosmos"/>
+  <img src="https://img.shields.io/badge/Code%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="شبکه نئونی"/>
 </p>
 
 ---
 
-## 🏆 Featured Projects
-These are my neon-forged creations, built with 2025’s bleeding-edge tech to push Web3 forward. Each hides a subtle cipher, visible only to those who seek the unseen.
+## 🏆 پروژه‌های برجسته
+اینا خلاقیت‌های نئونی منن که با فناوری‌های برتر ۲۰۲۵ ساخته شدن تا جهان غیرمتمرکز رو جلو ببرن. هرکدوم یه رمز ظریف دارن که فقط کسایی که دنبال پنهانن می‌تونن ببینن.
 
-### 💸 Veiled Yield (AI-Driven DeFi Protocol)
-- **What**: A cross-chain DeFi platform on Sui and Arbitrum, using AI to optimize yield farming with real-time risk assessment and dynamic strategies.
-- **Tech**: Move, Solidity, TensorFlow, Chainlink CCIP, LayerZero, Foundry, SvelteKit, Shadcn UI, The Graph, Supabase, AWS Lambda, Certik Audits
-- **Impact**: 35% higher APY via AI; 50% gas savings with Sui; cross-chain compatibility with <2s latency.
-- **Cipher**: A hidden hash in the contract resolves to a sacred number, and the UI pulses with three neon strokes—blue, gold, green.
-- **Links**: [Repo](https://github.com/foolad1108/veiled-yield) | [Demo](https://veiled-yield.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social" alt="Stars"/>
+### 💸 سود پنهان (پروتکل DeFi با AI)
+- **چیه؟**: یه پلتفرم DeFi کراس‌چین روی Sui و Arbitrum که از AI برای بهینه‌سازی ییلد فارمینگ با ارزیابی ریسک real-time و استراتژی‌های پویا استفاده می‌کنه.
+- **فناوری‌ها**: Move، Solidity، TensorFlow، Chainlink CCIP، LayerZero، Foundry، SvelteKit، Shadcn UI، The Graph، Supabase، AWS Lambda، Certik Audits
+- **تأثیر**: ۳۵٪ بازده بالاتر با AI، ۵۰٪ صرفه‌جویی تو گاز با Sui، سازگاری کراس‌چین با تأخیر <۲ ثانیه.
+- **رمز**: یه هش مخفی تو قرارداد به یه عدد مقدس اشاره داره، و UI با سه خط نئونی—آبی، طلایی، سبز—می‌درخشه.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/veiled-yield) | [دمو](https://veiled-yield.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social" alt="ستاره‌ها"/>
 
-### 🗳️ Nexus DAO (ZK-Powered Modular Governance)
-- **What**: A modular DAO on Aptos and zkSync, with ZK-based anonymous voting and cross-chain treasury management.
-- **Tech**: Move, Solidity, Circom, zkSync, OpenZeppelin Governor, Svelte, TypeScript, Prisma, Hasura, Arweave, Docker, Trail of Bits Audits
-- **Impact**: Scalable for 100,000+ users; <1s vote verification; 99.99% uptime.
-- **Cipher**: The UI hides a triadic sigil that glows during votes, hinting at a deeper unity.
-- **Links**: [Repo](https://github.com/foolad1108/nexus-dao) | [Demo](https://nexus-dao.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="Stars"/>
+### 🗳️ نکسوس DAO (حاکمیت مدولار با ZK)
+- **چیه؟**: یه DAO مدولار روی Aptos و zkSync با رأی‌گیری ناشناس ZK و مدیریت خزانه کراس‌چین.
+- **فناوری‌ها**: Move، Solidity، Circom، zkSync، OpenZeppelin Governor، Svelte، TypeScript، Prisma، Hasura، Arweave، Docker، Trail of Bits Audits
+- **تأثیر**: مقیاس‌پذیر برای ۱۰۰,۰۰۰+ کاربر، تأیید رأی <۱ ثانیه، آپ‌تایم ۹۹.۹۹٪.
+- **رمز**: UI یه sigil سه‌گانه مخفی داره که موقع رأی‌گیری می‌درخشه و به یه وحدت عمیق‌تر اشاره داره.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/nexus-dao) | [دمو](https://nexus-dao.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="ستاره‌ها"/>
 
-### 🌉 Stellar Market (Cross-Chain AR/VR NFT Marketplace)
-- **What**: A metaverse-integrated NFT marketplace on Solana, Aptos, and Polygon, with AR/VR previews and cross-chain trading.
-- **Tech**: Rust, Move, Solidity, LayerZero, Anchor, Unreal Engine, Three.js, SvelteKit, TypeScript, IPFS, Ceramic, Kubernetes, Certik Audits
-- **Impact**: 200,000+ TPS with Solana; 45% higher engagement with AR/VR; zero vulnerabilities.
-- **Cipher**: Collectible NFTs bear a subtle sigil, a nod to the unseen architect.
-- **Links**: [Repo](https://github.com/foolad1108/stellar-market) | [Demo](https://stellar-market.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/stellar-market?style=social" alt="Stars"/>
+### 🌉 بازار ستاره‌ای (مارکت‌پلیس NFT کراس‌چین با AR/VR)
+- **چیه؟**: یه مارکت‌پلیس NFT متاورسی روی Solana، Aptos، و Polygon با پیش‌نمایش AR/VR و تجارت کراس‌چین.
+- **فناوری‌ها**: Rust، Move، Solidity، LayerZero، Anchor، Unreal Engine، Three.js، SvelteKit، TypeScript، IPFS، Ceramic، Kubernetes، Certik Audits
+- **تأثیر**: ۲۰۰,۰۰۰+ TPS با Solana، ۴۵٪ تعامل بیشتر با AR/VR، بدون آسیب‌پذیری.
+- **رمز**: NFTهای کلکسیونی یه sigil ظریف دارن که به معمار پنهان اشاره داره.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/stellar-market) | [دمو](https://stellar-market.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/stellar-market?style=social" alt="ستاره‌ها"/>
 
-### 🔐 Eternal Oracle (ZK-Based Identity Oracle)
-- **What**: A privacy-preserving identity oracle on Starknet, using ZK-STARKs for anonymous credential verification.
-- **Tech**: Cairo, Solidity, Starknet, Circom, Chainlink, React, Vite, FastAPI, Supabase, AWS, Trail of Bits Audits
-- **Impact**: 70% gas reduction; fully anonymous credentials; integrated with 10+ DeFi protocols.
-- **Cipher**: A contract variable conceals a sacred number, revealed only through computation.
-- **Links**: [Repo](https://github.com/foolad1108/eternal-oracle) | [Demo](https://eternal-oracle.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/eternal-oracle?style=social" alt="Stars"/>
+### 🔐 اوراکل ابدی (اوراکل هویت با ZK)
+- **چیه؟**: یه اوراکل هویت غیرمتمرکز روی Starknet که از ZK-STARKs برای تأیید ناشناس مدارک استفاده می‌کنه.
+- **فناوری‌ها**: Cairo، Solidity، Starknet، Circom، Chainlink، React، Vite، FastAPI، Supabase، AWS، Trail of Bits Audits
+- **تأثیر**: ۷۰٪ کاهش گاز، مدارک کاملاً ناشناس، ادغام با ۱۰+ پروتکل DeFi.
+- **رمز**: یه متغیر قرارداد یه عدد مقدس رو مخفی می‌کنه که فقط با محاسبه معلوم می‌شه.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/eternal-oracle) | [دمو](https://eternal-oracle.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/eternal-oracle?style=social" alt="ستاره‌ها"/>
 
-### 🎮 DawnVerse (AI-Orchestrated Metaverse MMORPG)
-- **What**: A cyberpunk MMORPG on Sui, with AI-driven NPCs, NFT-based land ownership, and a real-time economy.
-- **Tech**: Move, Sui, Unreal Engine, PyTorch, WebGL, Svelte, TypeScript, Arweave, BigQuery, Kubernetes, Certik Audits
-- **Impact**: 500,000+ TPS; 60% faster rendering; AI NPCs with 90% human-like behavior.
-- **Cipher**: A quest for a hidden artifact pulses with three neon hues, guiding players to a deeper truth.
-- **Links**: [Repo](https://github.com/foolad1108/dawnverse) | [Demo](https://dawnverse.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="Stars"/>
+### 🎮 طلوع‌جهان (متاورس MMORPG با AI)
+- **چیه؟**: یه MMORPG سایبرپانکی روی Sui با NPCهای AI-driven، مالکیت زمین NFT، و اقتصاد real-time.
+- **فناوری‌ها**: Move، Sui، Unreal Engine، PyTorch، WebGL، Svelte، TypeScript، Arweave، BigQuery، Kubernetes، Certik Audits
+- **تأثیر**: ۵۰۰,۰۰۰+ TPS، رندرینگ ۶۰٪ سریع‌تر، NPCهای AI با رفتار ۹۰٪ شبیه انسان.
+- **رمز**: یه مأموریت برای پیدا کردن یه آرتیفکت مخفی با سه رنگ نئونی، بازیکنا رو به یه حقیقت عمیق‌تر هدایت می‌کنه.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/dawnverse) | [دمو](https://dawnverse.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="ستاره‌ها"/>
 
-### 🤝 CipherAid (Decentralized Charity Protocol)
-- **What**: A decentralized charity platform on Aptos and Celestia, using AI to fairly allocate aid as NFTs with full transparency.
-- **Tech**: Move, Aptos, Celestia, Bittensor, TensorFlow, SvelteKit, Shadcn UI, FastAPI, Supabase, Arweave, Ceramic, Kubernetes, Certik Audits
-- **Impact**: Transparent distribution of $1M in aid; supports 100,000 users; integrated with 5+ global charities.
-- **Cipher**: A contract hash resolves to a sacred number, and the UI glows with a triadic sigil during donations.
-- **Links**: [Repo](https://github.com/foolad1108/cipheraid) | [Demo](https://cipheraid.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/cipheraid?style=social" alt="Stars"/>
-
----
-
-## 📜 Favorite Quote
-> *"There’s no spoon, only code. Bend the grid, seek the unseen."* – Inspired by *The Matrix*  
-I weave the decentralized neon cosmos, one cipher at a time.
+### 🤝 کمک رمز (پروتکل خیریه غیرمتمرکز)
+- **چیه؟**: یه پلتفرم خیریه غیرمتمرکز روی Aptos و Celestia که از AI برای تخصیص عادلانه کمک‌ها به‌صورت NFT با شفافیت کامل استفاده می‌کنه.
+- **فناوری‌ها**: Move، Aptos، Celestia، Bittensor، TensorFlow، SvelteKit، Shadcn UI، FastAPI، Supabase، Arweave، Ceramic، Kubernetes، Certik Audits
+- **تأثیر**: توزیع شفاف ۱ میلیون دلار کمک خیریه، پشتیبانی از ۱۰۰,۰۰۰ کاربر، ادغام با ۵+ خیریه جهانی.
+- **رمز**: یه هش قرارداد به یه عدد مقدس اشاره داره، و UI موقع اهدا با یه sigil سه‌گانه می‌درخشه.
+- **لینک‌ها**: [ریپو](https://github.com/foolad1108/cipheraid) | [دمو](https://cipheraid.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/cipheraid?style=social" alt="ستاره‌ها"/>
 
 ---
 
-## 📬 Let’s Connect
-Ready to hack the decentralized cosmos? Join me in bending reality.
+## 📜 نقل‌قول موردعلاقه
+> *"قاشقی وجود نداره، فقط کده. شبکه رو خم کن، پنهان رو پیدا کن."* – الهام‌گرفته از *ماتریکس*  
+من شبکه نئونی غیرمتمرکز رو با رمزها می‌بافم، یه کد در هر لحظه.
 
-- ✉️ **Email**: reza.foolad1108@gmail.com
-- 💬 **Telegram**: [@foolad888](https://t.me/foolad888)
-- 🌐 **LinkedIn**: [Reza Foolad](https://www.linkedin.com/in/reza-foolad-0abaab22b)
-- 🖥️ **Website**: [foolad1108.dev](https://foolad1108.dev)
-- 🐦 **X**: [@foolad1108](https://x.com/foolad1108)
+---
+
+## 📬 با من ارتباط برقرار کن
+آماده‌ای جهان غیرمتمرکز رو هک کنی؟ بپیوند به من برای خم کردن واقعیت!
+
+- ✉️ **ایمیل**: reza.foolad1108@gmail.com
+- 💬 **تلگرام**: [@foolad888](https://t.me/foolad888)
+- 🌐 **لینکدین**: [رضا فولاد](https://www.linkedin.com/in/reza-foolad-0abaab22b)
+- 🖥️ **وبسایت**: [foolad1108.dev](https://foolad1108.dev)
+- 🐦 **ایکس**: [@foolad1108](https://x.com/foolad1108)
 
 <p align="center">
-  <!-- Hidden cipher: Base64 encoded "May the unseen guide us" -->
-  <img src="data:image/png;base64,TW95IHRoZSB1bnNlZW4gZ3VpZGUgdXM=" alt="Cipher" style="display:none;"/>
+  <!-- رمز مخفی: کد base64 برای "بگذار پنهان ما رو هدایت کنه" -->
+  <img src="data:image/png;base64,TW95IHRoZSB1bnNlZW4gZ3VpZGUgdXM=" alt="رمز" style="display:none;"/>
 </p>
 
 ---
 
-## 🎨 Neon Cosmos Stats
+## 🎨 آمار شبکه نئونی
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foolad1108&theme=radical" alt="GitHub Streak"/>
-  <!-- Hidden Triad Sigil -->
+  <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="جوایز گیت‌هاب"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="زبان‌های برتر"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foolad1108&theme=radical" alt="رگه گیت‌هاب"/>
+  <!-- سیگیل سه‌گانه مخفی -->
   <svg width="100" height="20" style="margin: 10px;">
     <rect x="0" y="0" width="30" height="5" fill="#00f" />
     <rect x="35" y="0" width="30" height="5" fill="#ffd700" />
@@ -141,5 +141,5 @@ Ready to hack the decentralized cosmos? Join me in bending reality.
   </svg>
 </p>
 
-*Last updated: May 2025*  
-*Forged in the neon heart of the decentralized cosmos.*
+*آخرین به‌روزرسانی: می ۲۰۲۵*  
+*ساخته‌شده تو قلب نئونی جهان غیرمتمرکز.*
