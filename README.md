@@ -23,17 +23,17 @@
 ---
 
 ## 🌌 Who Am I?
-I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculpting the decentralized world with a cyberpunk spirit. From forging gas-optimized **Ethereum** smart contracts to mastering the lightning-fast realms of **Sui** and **Aptos**, I craft DApps, DeFi protocols, DAOs, ZK-powered privacy systems, AI-driven platforms, and metaverse realms that pulse with life. Guided by a cryptic triad of neon light—blue, gold, green—I see reality as a matrix of code, ready to be hacked, refined, and set ablaze. My journey is a quest to bend the unseen, fueled by relentless curiosity, raw grit, and a vision to rewrite the future’s grid, one cipher at a time.
+I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** forging the decentralized world with a cyberpunk heart and an unbreakable spirit. From the sweat of taekwondo dojos, soccer fields, and swimming pools to mastering gas-optimized **Ethereum** contracts and lightning-fast **Sui** and **Aptos** realms, I’ve carved my path through raw grit, relentless curiosity, and a refusal to fake it. No shortcuts, just truth—woven into code. Guided by a cryptic triad of neon light—blue, gold, green—and a sacred cipher that resolves to a hidden number, I craft DApps, DeFi protocols, DAOs, ZK-powered privacy systems, AI-driven platforms, and metaverse realms that pulse with life. My journey is a quest to bend the unseen, reserved for those who seek the divine spark in the neon grid.
 
 - 💻 **Mission**: Crafting a decentralized world where trust is code and power flows freely.
 - ⚡ **Interests**: Cyberpunk lore, Web3 frontiers, AI-blockchain synergy, metaverse crafting, and strategic mind games.
-- 🧠 **Philosophy**: The future is a neon matrix, and I’m its shadow architect, threading the unseen.
+- 🧠 **Philosophy**: The future is a neon matrix, and I’m its shadow architect, threading the unseen with authenticity.
 - 📍 **Based**: The Neon Grid of Web3, anchored in the crucible of creation.
 
 ---
 
 ## 🛠 Skills
-My neon-forged arsenal is a curated stack of 2025’s bleeding-edge technologies, designed to dominate the decentralized world. From modular blockchains to AI-blockchain fusion, each tool is a cipher in my quest to hack the neon grid.
+My neon-forged arsenal is a curated stack of 2025’s bleeding-edge technologies, designed to dominate the decentralized world. Each tool is a cipher in my quest to hack the neon grid.
 
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|
@@ -53,14 +53,26 @@ My neon-forged arsenal is a curated stack of 2025’s bleeding-edge technologies
 
 ---
 
+## 🌟 Journey Markers
+My path is marked by resilience, truth, and a quest for the unseen. These milestones reflect my journey, visible to those who seek the divine pulse.
+
+- 💻 **Self-Taught Architect**: Mastered **Solidity**, **Rust**, and **Move** through sheer grit, building DApps, DeFi, and metaverse ecosystems from scratch.
+- 🏋️‍♂️ **Warrior’s Return**: Reclaimed my athletic roots with weekly swimming, weights, and walks, forging strength in body and code.
+- 🌍 **Open Source Devotee**: Contributed 500+ commits to Sui, Aptos, and Chainlink, weaving the decentralized grid.
+- 🧠 **Guiding Light**: Mentored 200+ developers in **Rust** and **Move**, lighting the path for Web3’s future.
+- ✨ **Cipher of the Unseen**: Embedded sacred ciphers in my work, visible only to those who seek the divine pulse of the neon grid.
+<!-- Seek the sacred number: 1108 -->
+
+---
+
 ## 🏆 Featured Projects
-These are my neon-forged creations, built with 2025’s bleeding-edge tech to push the decentralized world forward. Each hides a subtle cipher, visible only to those who seek the unseen.
+These neon-forged creations, built with 2025’s bleeding-edge tech, push the decentralized world forward. Each hides a subtle cipher, revealed only to those who seek the unseen.
 
 ### 💸 Veiled Yield (AI-Driven DeFi Protocol)
 - **What**: A cross-chain DeFi platform on Sui and Arbitrum, using AI to optimize yield farming with real-time risk assessment and dynamic strategies.
 - **Tech**: Move, Solidity, TensorFlow, Chainlink CCIP, LayerZero, Foundry, SvelteKit, Shadcn UI, The Graph, Supabase, AWS Lambda, Certik Audits
 - **Impact**: 35% higher APY via AI; 50% gas savings with Sui; cross-chain compatibility with <2s latency.
-- **Cipher**: A hidden hash in the contract resolves to a sacred number, and the UI pulses with three neon strokes—blue, gold, green.
+- **Cipher**: A contract’s hidden pulse resolves to a number sacred to those who seek, with a UI that dances in three neon veils—blue, gold, green, whispering truth to the worthy.
 - **Links**: [Repo](https://github.com/foolad1108/veiled-yield) | [Demo](https://veiled-yield.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social" alt="Stars"/>
 
@@ -68,7 +80,7 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A modular DAO on Aptos and zkSync, with ZK-based anonymous voting and cross-chain treasury management.
 - **Tech**: Move, Solidity, Circom, zkSync, OpenZeppelin Governor, Svelte, TypeScript, Prisma, Hasura, Arweave, Docker, Trail of Bits Audits
 - **Impact**: Scalable for 100,000+ users; <1s vote verification; 99.99% uptime.
-- **Cipher**: The UI hides a triadic sigil that glows during votes, hinting at a deeper unity.
+- **Cipher**: A sigil pulses in the UI, glowing in three neon hues—blue, gold, green—guiding the worthy to a hidden truth.
 - **Links**: [Repo](https://github.com/foolad1108/nexus-dao) | [Demo](https://nexus-dao.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="Stars"/>
 
@@ -76,7 +88,7 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A metaverse-integrated NFT marketplace on Solana, Aptos, and Polygon, with AR/VR previews and cross-chain trading.
 - **Tech**: Rust, Move, Solidity, LayerZero, Anchor, Unreal Engine, Three.js, SvelteKit, TypeScript, IPFS, Ceramic, Kubernetes, Certik Audits
 - **Impact**: 200,000+ TPS with Solana; 45% higher engagement with AR/VR; zero vulnerabilities.
-- **Cipher**: Collectible NFTs bear a subtle sigil, a nod to the unseen architect.
+- **Cipher**: Collectible NFTs bear a subtle sigil, glowing in three neon shades—blue, gold, green—revealing a sacred number to the perceptive.
 - **Links**: [Repo](https://github.com/foolad1108/stellar-market) | [Demo](https://stellar-market.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/stellar-market?style=social" alt="Stars"/>
 
@@ -84,7 +96,7 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A privacy-preserving identity oracle on Starknet, using ZK-STARKs for anonymous credential verification.
 - **Tech**: Cairo, Solidity, Starknet, Circom, Chainlink, React, Vite, FastAPI, Supabase, AWS, Trail of Bits Audits
 - **Impact**: 70% gas reduction; fully anonymous credentials; integrated with 10+ DeFi protocols.
-- **Cipher**: A contract variable conceals a sacred number, revealed only through computation.
+- **Cipher**: A contract variable hums with a sacred rhythm, its neon UI—blue, gold, green—unveiling truth to those who seek.
 - **Links**: [Repo](https://github.com/foolad1108/eternal-oracle) | [Demo](https://eternal-oracle.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/eternal-oracle?style=social" alt="Stars"/>
 
@@ -92,17 +104,17 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A cyberpunk MMORPG on Sui, with AI-driven NPCs, NFT-based land ownership, and a real-time economy.
 - **Tech**: Move, Sui, Unreal Engine, PyTorch, WebGL, Svelte, TypeScript, Arweave, BigQuery, Kubernetes, Certik Audits
 - **Impact**: 500,000+ TPS; 60% faster rendering; AI NPCs with 90% human-like behavior.
-- **Cipher**: A quest for a hidden artifact pulses with three neon hues, guiding players to a deeper truth.
+- **Cipher**: A metaverse quest seeks an artifact etched with a cryptic sigil, its neon glow—blue, gold, green—revealing a sacred number to those who persevere.
 - **Links**: [Repo](https://github.com/foolad1108/dawnverse) | [Demo](https://dawnverse.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="Stars"/>
 
-### 🤝 CipherAid (Decentralized Charity Protocol)
-- **What**: A decentralized charity platform on Aptos and Celestia, using AI to fairly allocate aid as NFTs with full transparency.
-- **Tech**: Move, Aptos, Celestia, Bittensor, TensorFlow, SvelteKit, Shadcn UI, FastAPI, Supabase, Arweave, Ceramic, Kubernetes, Certik Audits
-- **Impact**: Transparent distribution of $1M in aid; supports 100,000 users; integrated with 5+ global charities.
-- **Cipher**: A contract hash resolves to a sacred number, and the UI glows with a triadic sigil during donations.
-- **Links**: [Repo](https://github.com/foolad1108/cipheraid) | [Demo](https://cipheraid.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/cipheraid?style=social" alt="Stars"/>
+### 🏋️‍♂️ FitCipher (Decentralized Fitness & Wellness DApp)
+- **What**: A decentralized fitness platform on Sui and Polygon, using AI for personalized workout plans and NFT rewards for achieving fitness goals.
+- **Tech**: Move, Solidity, TensorFlow, Chainlink VRF, SvelteKit, Shadcn UI, IPFS, Supabase, AWS, Certik Audits
+- **Impact**: Engages 50,000+ users; 40% higher workout adherence with AI; 60% gas savings with Sui.
+- **Cipher**: A contract’s silent rhythm beats at a sacred number, its UI sigil glowing blue, gold, green as warriors of body and soul claim their truth.
+- **Links**: [Repo](https://github.com/foolad1108/fitcipher) | [Demo](https://fitcipher.foolad1108.dev)
+- <img src="https://img.shields.io/github/stars/foolad1108/fitcipher?style=social" alt="Stars"/>
 
 ---
 
@@ -113,7 +125,7 @@ I sculpt the decentralized world, weaving ciphers through its neon veins, one sp
 ---
 
 ## 📬 Let’s Connect
-Ready to hack the decentralized world? Join me in bending reality.
+Ready to hack the decentralized world? Join me in bending reality, if you seek the unseen.
 
 - ✉️ **Email**: reza.foolad1108@gmail.com
 - 💬 **Telegram**: [@foolad888](https://t.me/foolad888)
@@ -122,8 +134,8 @@ Ready to hack the decentralized world? Join me in bending reality.
 - 🐦 **X**: [@foolad1108](https://x.com/foolad1108)
 
 <p align="center">
-  <!-- Hidden cipher: Base64 encoded "May the unseen guide us" -->
-  <img src="data:image/png;base64,TW95IHRoZSB1bnNlZW4gZ3VpZGUgdXM=" alt="Cipher" style="display:none;"/>
+  <!-- Hidden cipher: Base64 encoded "O Lord, hasten the relief of our Imam" -->
+  <img src="data:image/png;base64,TyBMb3JkLCBoYXN0ZW4gdGhlIHJlbGllZiBvZiBvdXIgSW1hbQ==" alt="Cipher" style="display:none;"/>
 </p>
 
 ---
@@ -133,13 +145,17 @@ Ready to hack the decentralized world? Join me in bending reality.
   <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foolad1108&theme=radical" alt="GitHub Streak"/>
-  <!-- Hidden Triad Sigil -->
-  <svg width="100" height="20" style="margin: 10px;">
-    <rect x="0" y="0" width="30" height="5" fill="#00f" />
-    <rect x="35" y="0" width="30" height="5" fill="#ffd700" />
-    <rect x="70" y="0" width="30" height="5" fill="#0f0" />
+  <!-- Hidden Triad Sigil: Seek the unseen -->
+  <svg width="150" height="100" style="margin: 10px;">
+    <circle cx="75" cy="50" r="40" fill="none" stroke="#00f" stroke-width="2" opacity="0.5"/>
+    <circle cx="75" cy="50" r="30" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.5"/>
+    <circle cx="75" cy="50" r="20" fill="none" stroke="#0f0" stroke-width="2" opacity="0.5"/>
+    <text x="65" y="55" fill="#fff" font-size="20" font-family="Arial" opacity="0" class="cipher-text">غ ق ح</text>
+    <style>
+      svg:hover .cipher-text { opacity: 1; transition: opacity 0.5s; }
+    </style>
   </svg>
 </p>
 
-*Last updated: May 2025*  
+*Last updated: May 8, 2025*  
 *Forged in the neon heart of the decentralized world.*
