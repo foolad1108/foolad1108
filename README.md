@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Diverse Neon Cyberpunk Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/foolad1108/foolad1108/main/image.jpeg" alt="Sacred Neon Cyberpunk Banner" width="600"/>
 </p>
 
 <h1 align="center">Foolad1108 | Web3 Architect</h1>
 
 <p align="center">
-  <em>"Code is my blade, the neon grid my forge."</em>
+  <em>"Code is my blade, the sacred grid my forge."</em>
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 ---
 
 ## 🌌 About Me
-I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentralized systems with a cyberpunk heart. I code with the fire of a warrior and the soul of an artist, bending the unseen to build DApps, DeFi, and AI-driven platforms on Sui, Polygon, and Aptos. My creations are jewels in the Web3 crown, crafted with sacred precision. Forged in discipline, I weave the decentralized grid, mentoring devs and contributing to Sui and Chainlink. Guided by a neon triad—blue, gold, green—and a sacred cipher (1108), I craft for those who seek truth in the grid.
+I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentralized systems with a cyberpunk heart. I code with the fire of a warrior and the soul of an artist, bending the unseen to build DApps, DeFi, and AI-driven platforms on Sui, Polygon, and Aptos. My creations are jewels in the Web3 crown, crafted with sacred precision. Forged in discipline, I weave the sacred grid, mentoring devs and contributing to Sui and Chainlink. Guided by a neon triad—blue, gold, green—and a sacred cipher (1108), I craft for those who seek truth in the grid.
 
 - 💻 **Mission**: Build a decentralized world where trust is code.
 - ⚡ **Interests**: Web3, AI-blockchain synergy, cyberpunk aesthetics.
 - 🧠 **Philosophy**: Authenticity over illusion, code over chaos.
-- 📍 **Based**: The neon grid of Web3.
+- 📍 **Based**: The sacred neon grid of Web3.
 
 ---
 
@@ -37,19 +37,19 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught Web3 architect forging decentr
 <p align="center">
   <svg width="200" height="20">
     <rect x="0" y="0" width="200" height="20" fill="none" stroke="#00CC99" stroke-width="2" opacity="0.5"/>
-    <text x="50" y="15" fill="#1C2526" font-size="12" font-family="Arial">NEON ARSENAL PULSING</text>
+    <text x="50" y="15" fill="#1C2526" font-size="12" font-family="Arial">SACRED GRID PULSING</text>
   </svg>
 </p>
 
-My arsenal dominates the decentralized frontier, each tool a unique jewel in the Matrix grid.
+My arsenal dominates the decentralized frontier, each tool a sacred jewel in the Matrix grid.
 
 | **Category**         | **Technologies**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| ⚡️ **Blockchain**    | <img src="https://img.shields.io/badge/Solidity-%234A4A4A.svg?style=flat&logo=solidity&labelColor=%234A4A4A&color=%231C2526" alt="Solidity"/> Gas-optimized contracts *(DeFi & NFT DApps)*<br><img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=plastic&logo=rust&labelColor=%23DEA584&color=%231C2526" alt="Rust"/> 🦀 High-performance chains<br><img src="https://img.shields.io/badge/Move-%2300CC99.svg?style=flat-square&labelColor=%2300CC99&color=%231C2526" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%23375BD2.svg?style=flat&logo=chainlink&labelColor=%23375BD2&color=%231C2526" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%23663399.svg?style=plastic&logo=ipfs&labelColor=%23663399&color=%231C2526" alt="IPFS"/> Decentralized storage |
-| ⚡️ **AI**            | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&labelColor=%23FF6F00&color=%231C2526" alt="TensorFlow"/> Predictive models *(AI-blockchain synergy)*<br><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&labelColor=%23EE4C2C&color=%231C2526" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&labelColor=%233776AB&color=%231C2526" alt="Python"/> 🐍 Data pipelines |
-| ⚡️ **Frontend**      | <img src="https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=plastic&logo=svelte&labelColor=%23FF3E00&color=%231C2526" alt="SvelteKit"/> Reactive UIs *(Sleek Web3 interfaces)*<br><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&labelColor=%233178C6&color=%231C2526" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&labelColor=%2338B2AC&color=%231C2526" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%2333FF99.svg?style=plastic&labelColor=%2333FF99&color=%231C2526" alt="Wagmi"/> Web3 hooks |
-| ⚡️ **Backend**       | <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&labelColor=%23339933&color=%231C2526" alt="Node.js"/> Scalable APIs *(Real-time endpoints)*<br><img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&labelColor=%23009688&color=%231C2526" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&labelColor=%233ECF8E&color=%231C2526" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&labelColor=%23E10098&color=%231C2526" alt="GraphQL"/> Flexible queries |
-| ⚡️ **DevOps/Security** | <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&labelColor=%232496ED&color=%231C2526" alt="Docker"/> Containerized deployments *(Secure infra)*<br><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&labelColor=%23FF9900&color=%231C2526" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%231A73E8.svg?style=flat-square&labelColor=%231A73E8&color=%231C2526" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%23333333.svg?style=flat&labelColor=%23333333&color=%231C2526" alt="Slither"/> Security analysis |
+| 🗡️ **Blockchain**    | <img src="https://img.shields.io/badge/Solidity-%234A4A4A.svg?style=flat&logo=solidity&labelColor=%234A4A4A&color=%231C2526" alt="Solidity"/> Gas-optimized contracts *(DeFi & NFT DApps)*<br><img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=plastic&logo=rust&labelColor=%23DEA584&color=%231C2526" alt="Rust"/> 🦀 High-performance chains<br><img src="https://img.shields.io/badge/Move-%2300CC99.svg?style=flat-square&labelColor=%2300CC99&color=%231C2526" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%23375BD2.svg?style=flat&logo=chainlink&labelColor=%23375BD2&color=%231C2526" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%23663399.svg?style=plastic&logo=ipfs&labelColor=%23663399&color=%231C2526" alt="IPFS"/> Decentralized storage |
+| 🌟 **AI**            | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&labelColor=%23FF6F00&color=%231C2526" alt="TensorFlow"/> Predictive models *(AI-blockchain synergy)*<br><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&labelColor=%23EE4C2C&color=%231C2526" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&labelColor=%233776AB&color=%231C2526" alt="Python"/> 🐍 Data pipelines |
+| 💎 **Frontend**      | <img src="https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=plastic&logo=svelte&labelColor=%23FF3E00&color=%231C2526" alt="SvelteKit"/> Reactive UIs *(Sleek Web3 interfaces)*<br><img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&labelColor=%233178C6&color=%231C2526" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&labelColor=%2338B2AC&color=%231C2526" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%2333FF99.svg?style=plastic&labelColor=%2333FF99&color=%231C2526" alt="Wagmi"/> Web3 hooks |
+| 🛡️ **Backend**       | <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&labelColor=%23339933&color=%231C2526" alt="Node.js"/> Scalable APIs *(Real-time endpoints)*<br><img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&labelColor=%23009688&color=%231C2526" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&labelColor=%233ECF8E&color=%231C2526" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&labelColor=%23E10098&color=%231C2526" alt="GraphQL"/> Flexible queries |
+| 🔒 **DevOps/Security** | <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&labelColor=%232496ED&color=%231C2526" alt="Docker"/> Containerized deployments *(Secure infra)*<br><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&labelColor=%23FF9900&color=%231C2526" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%231A73E8.svg?style=flat-square&labelColor=%231A73E8&color=%231C2526" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%23333333.svg?style=flat&labelColor=%23333333&color=%231C2526" alt="Slither"/> Security analysis |
 
 <p align="center"><img src="https://via.placeholder.com/600x10/00CC99/00CC99.png" alt="Neon Pulse"/></p>
 
@@ -125,4 +125,4 @@ Let’s shape the decentralized future.
 </p>
 
 *Last updated: May 8, 2025*  
-*Forged with discipline in the diverse neon grid.*
+*Forged with discipline in the sacred neon grid.*
