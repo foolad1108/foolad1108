@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%23C0C0C0.svg?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%231C2526.svg?style=flat&logo=telegram" alt="Telegram"/></a>
-  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%231B263B.svg?style=flat&logo=google-chrome" alt="Website"/></a>
-  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23720026.svg?style=flat&logo=x" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/reza-foolad-0abaab22b"><img src="https://img.shields.io/badge/LinkedIn-%23D3D3D3.svg?style=flat&logo=linkedin&labelColor=%23D3D3D3&color=%23FFD700" alt="LinkedIn"/></a>
+  <a href="https://t.me/foolad888"><img src="https://img.shields.io/badge/Telegram-%232F2F2F.svg?style=flat&logo=telegram&labelColor=%232F2F2F&color=%23FFD700" alt="Telegram"/></a>
+  <a href="https://foolad1108.dev"><img src="https://img.shields.io/badge/Website-%234682B4.svg?style=flat&logo=google-chrome&labelColor=%234682B4&color=%23FFD700" alt="Website"/></a>
+  <a href="https://x.com/foolad1108"><img src="https://img.shields.io/badge/X-%23800020.svg?style=flat&logo=x&labelColor=%23800020&color=%23FFD700" alt="X"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foolad1108&color=brightgreen" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300FF00.svg?style=flat" alt="FitCipher"/>
+  <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300FF00.svg?style=flat&labelColor=%2300FF00&color=%23FFD700" alt="FitCipher"/>
 </p>
 
 ---
@@ -38,14 +38,14 @@ My arsenal dominates the decentralized frontier, each tool a spark in the grid.
 
 | **Category**         | **Technologies**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Blockchain**       | <img src="https://img.shields.io/badge/Solidity-%23C0C0C0.svg?style=flat&logo=solidity" alt="Solidity"/> Gas-optimized contracts<br><img src="https://img.shields.io/badge/Rust-%23C0C0C0.svg?style=flat&logo=rust" alt="Rust"/> High-performance chains<br><img src="https://img.shields.io/badge/Move-%23C0C0C0.svg?style=flat" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%23C0C0C0.svg?style=flat&logo=chainlink" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%23C0C0C0.svg?style=flat&logo=ipfs" alt="IPFS"/> Decentralized storage |
-| **AI**               | <img src="https://img.shields.io/badge/TensorFlow-%231C2526.svg?style=flat&logo=tensorflow" alt="TensorFlow"/> Predictive models<br><img src="https://img.shields.io/badge/PyTorch-%231C2526.svg?style=flat&logo=pytorch" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%231C2526.svg?style=flat&logo=python" alt="Python"/> Data pipelines |
-| **Frontend**         | <img src="https://img.shields.io/badge/SvelteKit-%231B263B.svg?style=flat&logo=svelte" alt="SvelteKit"/> Reactive UIs<br><img src="https://img.shields.io/badge/TypeScript-%231B263B.svg?style=flat&logo=typescript" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%231B263B.svg?style=flat&logo=tailwind-css" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%231B263B.svg?style=flat" alt="Wagmi"/> Web3 hooks |
-| **Backend**          | <img src="https://img.shields.io/badge/Node.js-%23720026.svg?style=flat&logo=node.js" alt="Node.js"/> Scalable APIs<br><img src="https://img.shields.io/badge/FastAPI-%23720026.svg?style=flat&logo=fastapi" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%23720026.svg?style=flat&logo=supabase" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23720026.svg?style=flat&logo=graphql" alt="GraphQL"/> Flexible queries |
-| **DevOps/Security**  | <img src="https://img.shields.io/badge/Docker-%23C0C0C0.svg?style=flat&logo=docker" alt="Docker"/> Containerized deployments<br><img src="https://img.shields.io/badge/AWS-%23C0C0C0.svg?style=flat&logo=amazon-aws" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%23C0C0C0.svg?style=flat" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%23C0C0C0.svg?style=flat" alt="Slither"/> Security analysis |
+| **Blockchain**       | <img src="https://img.shields.io/badge/Solidity-%23D3D3D3.svg?style=flat&logo=solidity&labelColor=%23D3D3D3&color=%23FFD700" alt="Solidity"/> Gas-optimized contracts<br><img src="https://img.shields.io/badge/Rust-%23D3D3D3.svg?style=flat&logo=rust&labelColor=%23D3D3D3&color=%23FFD700" alt="Rust"/> High-performance chains<br><img src="https://img.shields.io/badge/Move-%23D3D3D3.svg?style=flat&labelColor=%23D3D3D3&color=%23FFD700" alt="Move"/> Sui & Aptos DApps<br><img src="https://img.shields.io/badge/Chainlink-%23D3D3D3.svg?style=flat&logo=chainlink&labelColor=%23D3D3D3&color=%23FFD700" alt="Chainlink"/> Oracles<br><img src="https://img.shields.io/badge/IPFS-%23D3D3D3.svg?style=flat&logo=ipfs&labelColor=%23D3D3D3&color=%23FFD700" alt="IPFS"/> Decentralized storage |
+| **AI**               | <img src="https://img.shields.io/badge/TensorFlow-%232F2F2F.svg?style=flat&logo=tensorflow&labelColor=%232F2F2F&color=%23FFD700" alt="TensorFlow"/> Predictive models<br><img src="https://img.shields.io/badge/PyTorch-%232F2F2F.svg?style=flat&logo=pytorch&labelColor=%232F2F2F&color=%23FFD700" alt="PyTorch"/> AI-blockchain synergy<br><img src="https://img.shields.io/badge/Python-%232F2F2F.svg?style=flat&logo=python&labelColor=%232F2F2F&color=%23FFD700" alt="Python"/> Data pipelines |
+| **Frontend**         | <img src="https://img.shields.io/badge/SvelteKit-%234682B4.svg?style=flat&logo=svelte&labelColor=%234682B4&color=%23FFD700" alt="SvelteKit"/> Reactive UIs<br><img src="https://img.shields.io/badge/TypeScript-%234682B4.svg?style=flat&logo=typescript&labelColor=%234682B4&color=%23FFD700" alt="TypeScript"/> Robust code<br><img src="https://img.shields.io/badge/TailwindCSS-%234682B4.svg?style=flat&logo=tailwind-css&labelColor=%234682B4&color=%23FFD700" alt="Tailwind"/> Sleek designs<br><img src="https://img.shields.io/badge/Wagmi-%234682B4.svg?style=flat&labelColor=%234682B4&color=%23FFD700" alt="Wagmi"/> Web3 hooks |
+| **Backend**          | <img src="https://img.shields.io/badge/Node.js-%23800020.svg?style=flat&logo=node.js&labelColor=%23800020&color=%23FFD700" alt="Node.js"/> Scalable APIs<br><img src="https://img.shields.io/badge/FastAPI-%23800020.svg?style=flat&logo=fastapi&labelColor=%23800020&color=%23FFD700" alt="FastAPI"/> High-speed endpoints<br><img src="https://img.shields.io/badge/Supabase-%23800020.svg?style=flat&logo=supabase&labelColor=%23800020&color=%23FFD700" alt="Supabase"/> Real-time DB<br><img src="https://img.shields.io/badge/GraphQL-%23800020.svg?style=flat&logo=graphql&labelColor=%23800020&color=%23FFD700" alt="GraphQL"/> Flexible queries |
+| **DevOps/Security**  | <img src="https://img.shields.io/badge/Docker-%23D3D3D3.svg?style=flat&logo=docker&labelColor=%23D3D3D3&color=%23FFD700" alt="Docker"/> Containerized deployments<br><img src="https://img.shields.io/badge/AWS-%23D3D3D3.svg?style=flat&logo=amazon-aws&labelColor=%23D3D3D3&color=%23FFD700" alt="AWS"/> Cloud infra<br><img src="https://img.shields.io/badge/Certik-%23D3D3D3.svg?style=flat&labelColor=%23D3D3D3&color=%23FFD700" alt="Certik"/> Smart contract audits<br><img src="https://img.shields.io/badge/Slither-%23D3D3D3.svg?style=flat&labelColor=%23D3D3D3&color=%23FFD700" alt="Slither"/> Security analysis |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%2300FF00.svg?style=flat" alt="Neon Grid"/>
+  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%2300FF00.svg?style=flat&labelColor=%2300FF00&color=%23FFD700" alt="Neon Grid"/>
 </p>
 
 ---
