@@ -17,13 +17,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foolad1108&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/foolad1108?style=social" alt="Total Stars"/> <!-- جایگزین فالوورها -->
+  <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
 </p>
 
 ---
 
 ## 🌌 Who Am I?
-I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculpting the decentralized world with a cyberpunk spirit. From forging gas-optimized **Ethereum** smart contracts to mastering the lightning-fast realms of **Sui** and **Aptos**, I craft DApps, DeFi protocols, DAOs, ZK-powered privacy systems, AI-driven platforms, and metaverse realms that pulse with life. Guided by a cryptic triad of neon light—blue, gold, green—I see reality as a matrix of code, ready to be hacked, refined, and set ablaze.
+I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculpting the decentralized world with a cyberpunk spirit. From forging gas-optimized **Ethereum** smart contracts to mastering the lightning-fast realms of **Sui** and **Aptos**, I craft DApps, DeFi protocols, DAOs, ZK-powered privacy systems, AI-driven platforms, and metaverse realms that pulse with life. Guided by a cryptic triad of neon light—blue, gold, green—I see reality as a matrix of code, ready to be hacked, refined, and set ablaze. My journey is a quest to bend the unseen, fueled by relentless curiosity, raw grit, and a vision to rewrite the future’s grid, one cipher at a time.
 
 - 💻 **Mission**: Crafting a decentralized world where trust is code and power flows freely.
 - ⚡ **Interests**: Cyberpunk lore, Web3 frontiers, AI-blockchain synergy, metaverse crafting, and strategic mind games.
@@ -33,13 +33,23 @@ I’m **Reza Foolad (Foolad1108)**, a self-taught **blockchain architect** sculp
 ---
 
 ## 🛠 Skills
+My neon-forged arsenal is a curated stack of 2025’s bleeding-edge technologies, designed to dominate the decentralized world. From modular blockchains to AI-blockchain fusion, each tool is a cipher in my quest to hack the neon grid.
+
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|
-| **Blockchain**          | Solidity, Rust, Move, Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon    |
-| **Zero-Knowledge**      | Circom, Cairo, zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM        |
-| **AI & Blockchain**     | Python, TensorFlow, PyTorch, Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
-| **Frontend**            | React, Svelte, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Vite, Wagmi v2      |
-| **Backend**             | Node.js, NestJS, Go, GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura       |
+| **Blockchain**          | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust) ![Move](https://img.shields.io/badge/Move-%2300A3E0.svg?style=flat) Ethereum, Solana, Sui, Aptos, Starknet, zkSync, Polygon, Optimism, Arbitrum, Cosmos SDK, Polkadot/Substrate, Fuel Network, Celestia, Vyper, Anchor, Foundry, Hardhat, Chainlink, LayerZero, CCIP, Wormhole, Hyperledger Besu, IPFS, Arweave |
+| **Zero-Knowledge**      | ![Circom](https://img.shields.io/badge/Circom-%23000000.svg?style=flat) ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=flat) zk-SNARKs, zk-STARKs, Halo2, Plonk, Noir, RISC Zero, zkEVM |
+| **AI & Blockchain**     | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch) Fetch.ai, SingularityNET, Ocean Protocol, Bittensor |
+| **Frontend**            | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js) TypeScript, Tailwind CSS, Shadcn UI, Vite, Wagmi v2, Viem v2, RainbowKit, Framer Motion |
+| **Backend**             | ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go) GraphQL, The Graph, FastAPI, Prisma, Supabase, Hasura |
+| **Game Dev**            | ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat&logo=unreal-engine) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity) WebGL, Three.js, Spatial.io |
+| **Databases**           | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql) Arweave, Ceramic, DynamoDB, BigQuery |
+| **DevOps**              | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes) AWS, GCP, Azure, Terraform, ArgoCD, GitHub Actions, Alchemy, Infura, QuickNode |
+| **Security**            | ![Slither](https://img.shields.io/badge/Slither-%23000000.svg?style=flat) Mythril, Echidna, Certik, Trail of Bits, Tenderly, Foundry Fuzzing, OpenZeppelin Defender |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Forged%20in-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Grid"/>
+</p>
 
 ---
 
@@ -82,7 +92,7 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A cyberpunk MMORPG on Sui, with AI-driven NPCs, NFT-based land ownership, and a real-time economy.
 - **Tech**: Move, Sui, Unreal Engine, PyTorch, WebGL, Svelte, TypeScript, Arweave, BigQuery, Kubernetes, Certik Audits
 - **Impact**: 500,000+ TPS; 60% faster rendering; AI NPCs with 90% human-like behavior.
-- **Cipher**: A quest for a hidden artifact pulses with.Imaging three neon hues, guiding players to a deeper truth.
+- **Cipher**: A quest for a hidden artifact pulses with three neon hues, guiding players to a deeper truth.
 - **Links**: [Repo](https://github.com/foolad1108/dawnverse) | [Demo](https://dawnverse.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="Stars"/>
 
@@ -96,11 +106,6 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 
 ---
 
-## 🧪 Testing in the Neon Grid
-My projects are forged on Q1 2025 testnets like Aptos Testnet, Sui Testnet, Arbitrum Sepolia, zkSync Sepolia, Solana Devnet, Polygon Amoy, and Starknet Sepolia, with tokens sourced from faucets such as [Aptos Faucet](https://faucet.testnet.aptoslabs.com/) and [Solana Faucet](https://faucet.solana.com/). The sacred cipher **1108** and Triad Sigil (**غ ق ح**) guide their deployment.
-
----
-
 ## 📜 Favorite Quote
 > *"No spoon, only code. Hack the neon grid, chase the sacred pulse."* – Echoes of *The Matrix*  
 I sculpt the decentralized world, weaving ciphers through its neon veins, one spark at a time.
@@ -110,7 +115,7 @@ I sculpt the decentralized world, weaving ciphers through its neon veins, one sp
 ## 📬 Let’s Connect
 Ready to hack the decentralized world? Join me in bending reality.
 
-- ✉️ **Email**: [reza.foolad1108@gmail.com](mailto:reza.foolad1108@gmail.com)
+- ✉️ **Email**: reza.foolad1108@gmail.com
 - 💬 **Telegram**: [@foolad888](https://t.me/foolad888)
 - 🌐 **LinkedIn**: [Reza Foolad](https://www.linkedin.com/in/reza-foolad-0abaab22b)
 - 🖥️ **Website**: [foolad1108.dev](https://foolad1108.dev)
@@ -125,7 +130,7 @@ Ready to hack the decentralized world? Join me in bending reality.
 
 ## 🎨 Neon Grid Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foolad1108&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foolad1108&theme=radical" alt="GitHub Streak"/>
   <!-- Hidden Triad Sigil -->
@@ -136,5 +141,5 @@ Ready to hack the decentralized world? Join me in bending reality.
   </svg>
 </p>
 
-*Last updated: Automatically updated via GitHub Actions*  
+*Last updated: May 2025*  
 *Forged in the neon heart of the decentralized world.*
