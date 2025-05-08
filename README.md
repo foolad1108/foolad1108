@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=00CC99" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/foolad1108?style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=foolad1108&color=00CC99&labelColor=00CC99&style=flat-square&label=Profile%20Views&color=1C2526" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/foolad1108?style=social&labelColor=00CC99&color=1C2526" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Now%20Building-FitCipher-%2300CC99.svg?style=plastic&labelColor=%2300CC99&color=%231C2526" alt="FitCipher"/>
 </p>
 
@@ -69,21 +69,21 @@ My creations push Web3’s boundaries, each hiding a cipher for the worthy.
 - **Tech**: Move, Solidity, TensorFlow, SvelteKit, Supabase, IPFS, AWS
 - **Impact**: 40% higher workout adherence; 60% gas savings.
 - **Links**: [Repo](https://github.com/foolad1108/fitcipher) | [Demo](https://fitcipher.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/fitcipher?style=social" alt="Stars"/>
+- <img src="https://img.shields.io/github/stars/foolad1108/fitcipher?style=social&labelColor=00CC99&color=1C2526" alt="Stars"/>
 
 ### 💸 Veiled Yield (AI-Driven DeFi Protocol)
 - **What**: Cross-chain DeFi on Sui and Arbitrum, optimizing yield with AI.
 - **Tech**: Move, Solidity, TensorFlow, Chainlink, SvelteKit
 - **Impact**: 35% higher APY; cross-chain in <2s.
 - **Links**: [Repo](https://github.com/foolad1108/veiled-yield) | [Demo](https://veiled-yield.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social" alt="Stars"/>
+- <img src="https://img.shields.io/github/stars/foolad1108/veiled-yield?style=social&labelColor=00CC99&color=1C2526" alt="Stars"/>
 
 ### 🗳️ Nexus DAO (ZK-Powered Governance)
 - **What**: Modular DAO on Aptos with ZK-based anonymous voting.
 - **Tech**: Move, Solidity, Circom, Svelte, Arweave
 - **Impact**: Scalable for 100,000+ users; <1s vote verification.
 - **Links**: [Repo](https://github.com/foolad1108/nexus-dao) | [Demo](https://nexus-dao.foolad1108.dev)
-- <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social" alt="Stars"/>
+- <img src="https://img.shields.io/github/stars/foolad1108/nexus-dao?style=social&labelColor=00CC99&color=1C2526" alt="Stars"/>
 
 ---
 
