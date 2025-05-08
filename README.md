@@ -92,7 +92,7 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 - **What**: A cyberpunk MMORPG on Sui, with AI-driven NPCs, NFT-based land ownership, and a real-time economy.
 - **Tech**: Move, Sui, Unreal Engine, PyTorch, WebGL, Svelte, TypeScript, Arweave, BigQuery, Kubernetes, Certik Audits
 - **Impact**: 500,000+ TPS; 60% faster rendering; AI NPCs with 90% human-like behavior.
-- **Cipher**: A quest for a hidden artifact pulses with three neon hues, guiding players to a deeper truth.
+- **Cipher**: A quest for a hidden artifact pulses with.Imaging three neon hues, guiding players to a deeper truth.
 - **Links**: [Repo](https://github.com/foolad1108/dawnverse) | [Demo](https://dawnverse.foolad1108.dev)
 - <img src="https://img.shields.io/github/stars/foolad1108/dawnverse?style=social" alt="Stars"/>
 
@@ -106,37 +106,8 @@ These are my neon-forged creations, built with 2025’s bleeding-edge tech to pu
 
 ---
 
-## 🧪 Test Environment Setup and Deployment (Neon Grid, Q1 2025)
-
-My projects are forged in the neon crucible of testnets, ensuring they pulse with the sacred cipher **1108** and the Triad Sigil (**غ ق ح**: Blue, Gold, Green) before mainnet deployment. Below are the Q1 2025 testnets and faucets used to hack the decentralized matrix.
-
-- **CipherAid**:
-  - **Testnets**: Aptos Testnet (`https://testnet.aptoslabs.com`), Celestia Mocha (`https://mocha-4.cel/pull/314/filesestia.org`).
-  - **Faucets**: [Aptos Faucet](https://faucet.testnet.aptoslabs.com/), [Celestia Faucet](https://faucet.mocha.celestia.org/).
-
-- **DawnVerse**:
-  - **Testnet**: Sui Testnet (`https://fullnode.testnet.sui.io`).
-  - **Faucet**: [Sui Faucet](https://faucet.testnet.sui.io/).
-
-- **Veiled Yield**:
-  - **Testnets**: Sui Testnet, Arbitrum Sepolia (`https://sepolia-rollup.arbitrum.io/rpc`).
-  - **Faucets**: [Sui Faucet](https://faucet.testnet.sui.io/), [Alchemy Sepolia Faucet](https://sepoliafaucet.com/).
-
-- **Nexus DAO**:
-  - **Testnets**: Aptos Testnet, zkSync Sepolia (`https://sepolia.zksync.dev`).
-  - **Faucets**: [Aptos Faucet](https://faucet.testnet.aptoslabs.com/), [zkSync Faucet](https://faucet.zksync.io/).
-
-- **Stellar Market**:
-  - **Testnets**: Solana Devnet (`https://api.devnet.solana.com`), Aptos Testnet, Polygon Amoy (`https://rpc-amoy.polygon.technology`).
-  - **Faucets**: [Solana Faucet](https://faucet.solana.com/), [Aptos Faucet](https://faucet.testnet.aptoslabs.com/), [Polygon Amoy Faucet](https://faucet.polygon.technology/).
-
-- **Eternal Oracle**:
-  - **Testnet**: Starknet Sepolia (`https://sepolia.starknet.io`).
-  - **Faucet**: [Starknet Faucet](https://faucet.sepolia.starknet.io/).
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Neon%20Testnet-Neon%20Grid-%23FF00FF.svg?style=flat" alt="Neon Testnet"/>
-</p>
+## 🧪 Testing in the Neon Grid
+My projects are forged on Q1 2025 testnets like Aptos Testnet, Sui Testnet, Arbitrum Sepolia, zkSync Sepolia, Solana Devnet, Polygon Amoy, and Starknet Sepolia, with tokens sourced from faucets such as [Aptos Faucet](https://faucet.testnet.aptoslabs.com/) and [Solana Faucet](https://faucet.solana.com/). The sacred cipher **1108** and Triad Sigil (**غ ق ح**) guide their deployment.
 
 ---
 
@@ -164,7 +135,7 @@ Ready to hack the decentralized world? Join me in bending reality.
 
 ## 🎨 Neon Grid Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fool zacząład1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=foolad1108&theme=radical&no-frame=true" alt="GitHub Trophies"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foolad1108&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foolad1108&theme=radical" alt="GitHub Streak"/>
   <!-- Hidden Triad Sigil -->
