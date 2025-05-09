@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.jpg" alt="Foolad1108 CyberSmith" width="200" style="border-radius:50%; border:3px solid #00FF00;" />
-  <h1>🧬 Foolad1108 | The CyberSmith of Decentralized Cosmos 🧬</h1>
-  <p><em>Forger of unbreakable code in the neon-lit crucible of blockchain & AI. Architect of trustless futures. 1108 | غ ق ح</em></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=26¢er=true&vCenter=true&width=650&lines=Blockchain+Maestro;Smart+Contract+Alchemist;DAO+Visionary;Cyberpunk+Code+Shinobi" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 CyberSmith" width="200" style="border-radius:50%; border:4px solid #00FF00; box-shadow: 0 0 15px #00FF00;" />
+  <h1>🧬 Foolad1108 | The Neon Forger of Decentralized Realms 🧬</h1>
+  <p><em>Master of blockchain alchemy and AI sorcery. Architect of trustless futures. 1108 | غ ق ح</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=28¢er=true&vCenter=true&width=700&lines=Blockchain+Savant;Smart+Contract+Shinobi;DAO+Architect;Cyberpunk+Code+Sensei" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌌 Enter the Nexus of Code & Mysticism 🌌</h2>
-  <p>I’m Foolad1108, a blockchain savant and code shinobi, sculpting decentralized ecosystems with the precision of a samurai and the foresight of a cyberpunk oracle. From Ethereum’s smart contracts to Solana’s lightning-fast programs, I craft scalable, transparent, and indestructible digital realms. My creations, like <b>Nexus DAO</b>, <b>FitCipher</b>, and <b>Veiled Yield</b>, are monuments to innovation and trust.</p>
-  <p><b>Code is my katana. Blockchain is my dojo. 1108 is my soul.</b></p>
-  <img src="https://media.giphy.com/media/26xBI73gWquFZr8u4/giphy.gif" width="200" alt="Neon Cyberpunk" />
+  <h2>🌌 Step into the Matrix of Code & Mysticism 🌌</h2>
+  <p>I’m Foolad1108, a blockchain maestro and code sensei, forging decentralized ecosystems with the precision of a katana and the vision of a cyberpunk prophet. From Ethereum’s smart contracts to Solana’s blazing-fast programs, I sculpt secure, scalable, and elegant digital realms. My works, like <b>Nexus DAO</b>, <b>FitCipher</b>, and <b>Veiled Yield</b>, redefine trust and innovation.</p>
+  <p><b>Code is my creed. Blockchain is my dojo. 1108 is my mantra.</b></p>
+  <img src="https://img.shields.io/badge/CyberSmith-Neon_Forge-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="CyberSmith" />
 </div>
 
 ---
 
-### 🛠️ My Cyber Arsenal: Tools That Shape Tomorrow
+### 🛠️ My Cyber Arsenal: Tools of Tomorrow
 
 <table align="center" style="border: none;">
   <tr>
@@ -26,7 +26,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Solidity-00FF00?style=flat-square&logo=solidity&logoColor=000000" alt="Solidity" /><br>
-      <img src="https://img.shields.io/badge/Rust-FF00FF?style=flat-square&logo=rust&logoColor=FFFFFF" alt Praxis="Rust" /><br>
+      <img src="https://img.shields.io/badge/Rust-FF00FF?style=flat-square&logo=rust&logoColor=FFFFFF" alt="Rust" /><br>
       <img src="https://img.shields.io/badge/Solana-0000FF?style=flat-square&logo=solana&logoColor=FFFFFF" alt="Solana" /><br>
       <img src="https://img.shields.io/badge/OpenZeppelin-FF0000?style=flat-square&logo=ethereum&logoColor=000000" alt="OpenZeppelin" />
     </td>
@@ -71,31 +71,31 @@
 
 ---
 
-### 🚀 Masterworks: My Digital Monuments
+### 🚀 Masterworks: My Digital Shogunate
 
 <div align="center">
   <table style="border: none;">
     <tr>
       <td align="center">
         <h4>🗳️ Nexus DAO</h4>
-        <p>A decentralized governance platform built with Solidity and OpenZeppelin. Transparent, secure, and cyberpunk-inspired. <b>Trust redefined.</b></p>
+        <p>A decentralized governance DApp built with Solidity and OpenZeppelin. Transparent voting with cyberpunk flair. <b>Trust forged in code.</b></p>
         <a href="https://github.com/Foolad1108/nexus-dao"><img src="https://img.shields.io/badge/GitHub-00FF00?style=flat-square&logo=github&logoColor=000000" alt="GitHub" /></a>
       </td>
       <td align="center">
         <h4>💪 FitCipher</h4>
-        <p>A Web3 fitness DApp rewarding users with tokens for hitting goals, powered by Solana and AI analytics. <b>Sweat meets blockchain.</b></p>
+        <p>A Web3 fitness tracker rewarding users with tokens via Solana and AI-driven analytics. <b>Sweat meets decentralization.</b></p>
         <a href="https://github.com/Foolad1108/fitcipher"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <h4>🕵️ Veiled Yield</h4>
-        <p>A DeFi protocol for yield farming with gas-optimized contracts and a Next.js frontend. <b>Harvest the neon future.</b></p>
+        <p>A DeFi yield farming protocol with optimized smart contracts and a Next.js frontend. <b>Harvest the neon frontier.</b></p>
         <a href="https://github.com/Foolad1108/veiled-yield"><img src="https://img.shields.io/badge/GitHub-0000FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
       <td align="center">
         <h4>🌌 CyberSmith’s Forge</h4>
-        <p>Rust-powered toolkit for blockchain devs: contract auditors, gas optimizers, and more. <b>Precision in every bit.</b></p>
+        <p>Rust-based toolkit for blockchain devs: auditors, optimizers, and utilities. <b>Precision in every byte.</b></p>
         <a href="https://github.com/Foolad1108/cybersmith-forge"><img src="https://img.shields.io/badge/GitHub-FF0000?style=flat-square&logo=github&logoColor=000000" alt="GitHub" /></a>
       </td>
     </tr>
@@ -104,17 +104,17 @@
 
 ---
 
-### 🌟 My Code, My Creed
+### 🌟 My Code, My Rebellion
 
 <div align="center">
-  <p>I code to forge a decentralized future where trust is immutable and innovation is boundless. Drawing from the chaos of cyberpunk and the discipline of martial arts, I build systems that are robust, elegant, and eternal.</p>
-  <p><b>My code is my rebellion. My projects are my legacy.</b></p>
-  <img src="https://img.shields.io/badge/Mantra-1108_%7C_غ_ق_ح-00FF00?style=flat-square" alt="Mantra" />
+  <p>I code to build a decentralized cosmos where trust is immutable and innovation is limitless. Inspired by cyberpunk chaos and martial arts discipline, I craft systems that are secure, scalable, and eternal.</p>
+  <p><b>My code is my katana. My projects are my shogunate.</b></p>
+  <img src="https://img.shields.io/badge/Mantra-1108_%7C_غ_ق_ح-00FF00?style=for-the-badge" alt="Mantra" />
 </div>
 
 ---
 
-### 📊 GitHub Glory: Stats & Trophies
+### 📊 GitHub Dominion: Stats & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Foolad1108&theme=matrix&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
@@ -126,19 +126,19 @@
 
 ---
 
-### 🌐 Join the CyberSmith’s Network
+### 🌐 Connect with the Neon Forger
 
 <div align="center">
-  <a href="https://x.com/Foolad1108"><img src="https://img.shields.io/badge/X-00FF00?style=flat-square&logo=x&logoColor=000000" alt="X" /></a>
-  <a href="https://linkedin.com/in/foolad1108"><img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-  <a href="https://foolad1108.github.io"><img src="https://img.shields.io/badge/Portfolio-0000FF?style=flat-square&logo=firefox&logoColor=FFFFFF" alt="Portfolio" /></a>
-  <a href="mailto:foolad1108@cybersmith.io"><img src="https://img.shields.io/badge/Email-FF0000?style=flat-square&logo=gmail&logoColor=000000" alt="Email" /></a>
+  <a href="https://x.com/Foolad1108"><img src="https://img.shields.io/badge/X-00FF00?style=for-the-badge&logo=x&logoColor=000000" alt="X" /></a>
+  <a href="https://linkedin.com/in/foolad1108"><img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://foolad1108.github.io"><img src="https://img.shields.io/badge/Portfolio-0000FF?style=for-the-badge&logo=firefox&logoColor=FFFFFF" alt="Portfolio" /></a>
+  <a href="mailto:foolad1108@cybersmith.io"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💾 Code is Destiny. Shape the Revolution.</h3>
+  <h3>💾 Code is Power. Forge the Future.</h3>
   <p><em>Powered by 1108 | غ ق ح | Neon Matrix Core</em></p>
-  <img src="https://media.giphy.com/media/LnCR8UoVqvhVvMml8N/giphy.gif" width="350" alt="Matrix Rain" />
+  <img src="https://img.shields.io/badge/Status-Building_the_Cosmos-00FF00?style=for-the-badge" alt="Status" />
 </div>
