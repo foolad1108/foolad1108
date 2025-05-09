@@ -1,22 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 CyberSmith" width="200" style="border-radius:50%; border:4px solid #00FF00; box-shadow: 0 0 15px #00FF00;" />
-  <h1>🧬 Foolad1108 | The Neon Forger of Decentralized Realms 🧬</h1>
-  <p><em>Master of blockchain alchemy and AI sorcery. Architect of trustless futures. 1108 | غ ق ح</em></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=28¢er=true&vCenter=true&width=700&lines=Blockchain+Savant;Smart+Contract+Shinobi;DAO+Architect;Cyberpunk+Code+Sensei" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 Neon Forger" width="220" style="border-radius:50%; border:5px solid #00FF00; box-shadow: 0 0 20px #00FF00;" />
+  <h1>🧬 Foolad1108 | The Neon Shogun of Decentralized Realms 🧬</h1>
+  <p><em>Master alchemist of blockchain and AI, forging trustless futures with code. 1108 | غ ق ح</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30¢er=true&vCenter=true&width=750&lines=Blockchain+Shogun;Smart+Contract+Sage;DAO+Architect;Cyberpunk+Code+Master" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Status-Forging_the_Neon_Cosmos-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="Status" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌌 Step into the Matrix of Code & Mysticism 🌌</h2>
-  <p>I’m Foolad1108, a blockchain maestro and code sensei, forging decentralized ecosystems with the precision of a katana and the vision of a cyberpunk prophet. From Ethereum’s smart contracts to Solana’s blazing-fast programs, I sculpt secure, scalable, and elegant digital realms. My works, like <b>Nexus DAO</b>, <b>FitCipher</b>, and <b>Veiled Yield</b>, redefine trust and innovation.</p>
-  <p><b>Code is my creed. Blockchain is my dojo. 1108 is my mantra.</b></p>
-  <img src="https://img.shields.io/badge/CyberSmith-Neon_Forge-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="CyberSmith" />
+  <h2>🌌 Enter the Neon Dojo of Code & Mysticism 🌌</h2>
+  <p>I’m Foolad1108, a blockchain shogun and code sage, crafting decentralized ecosystems with the precision of a katana and the foresight of a cyberpunk oracle. From Ethereum’s immutable smart contracts to Solana’s lightning-fast programs, I build secure, scalable, and elegant digital realms. My creations, like <b>Nexus DAO</b>, <b>FitCipher</b>, and <b>Veiled Yield</b>, are beacons of trust and innovation.</p>
+  <p><b>Code is my blade. Blockchain is my forge. 1108 is my soul.</b></p>
+  <img src="https://img.shields.io/badge/Neon_Shogun-1108_%7C_غ_ق_ح-FF00FF?style=for-the-badge" alt="Mantra" />
 </div>
 
 ---
 
-### 🛠️ My Cyber Arsenal: Tools of Tomorrow
+### 🛠️ My Cyber Arsenal: Forging the Future
 
 <table align="center" style="border: none;">
   <tr>
@@ -28,13 +29,15 @@
       <img src="https://img.shields.io/badge/Solidity-00FF00?style=flat-square&logo=solidity&logoColor=000000" alt="Solidity" /><br>
       <img src="https://img.shields.io/badge/Rust-FF00FF?style=flat-square&logo=rust&logoColor=FFFFFF" alt="Rust" /><br>
       <img src="https://img.shields.io/badge/Solana-0000FF?style=flat-square&logo=solana&logoColor=FFFFFF" alt="Solana" /><br>
-      <img src="https://img.shields.io/badge/OpenZeppelin-FF0000?style=flat-square&logo=ethereum&logoColor=000000" alt="OpenZeppelin" />
+      <img src="https://img.shields.io/badge/OpenZeppelin-FF0000?style=flat-square&logo=ethereum&logoColor=000000" alt="OpenZeppelin" /><br>
+      <img src="https://img.shields.io/badge/Chainlink-00FF00?style=flat-square&logo=chainlink&logoColor=000000" alt="Chainlink" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/TensorFlow-00FF00?style=flat-square&logo=tensorflow&logoColor=000000" alt="TensorFlow" /><br>
       <img src="https://img.shields.io/badge/PyTorch-FF00FF?style=flat-square&logo=pytorch&logoColor=FFFFFF" alt="PyTorch" /><br>
       <img src="https://img.shields.io/badge/Python-0000FF?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/Pandas-FF0000?style=flat-square&logo=pandas&logoColor=000000" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Pandas-FF0000?style=flat-square&logo=pandas&logoColor=000000" alt="Pandas" /><br>
+      <img src="https://img.shields.io/badge/NumPy-00FF00?style=flat-square&logo=numpy&logoColor=000000" alt="NumPy" />
     </td>
   </tr>
   <tr>
@@ -46,13 +49,15 @@
       <img src="https://img.shields.io/badge/React-00FF00?style=flat-square&logo=react&logoColor=000000" alt="React" /><br>
       <img src="https://img.shields.io/badge/Next.js-FF00FF?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" /><br>
       <img src="https://img.shields.io/badge/TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript" /><br>
-      <img src="https://img.shields.io/badge/TailwindCSS-FF0000?style=flat-square&logo=tailwindcss&logoColor=000000" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/TailwindCSS-FF0000?style=flat-square&logo=tailwindcss&logoColor=000000" alt="TailwindCSS" /><br>
+      <img src="https://img.shields.io/badge/Web3.js-00FF00?style=flat-square&logo=web3dotjs&logoColor=000000" alt="Web3.js" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-00FF00?style=flat-square&logo=node.js&logoColor=000000" alt="Node.js" /><br>
       <img src="https://img.shields.io/badge/Express-FF00FF?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" /><br>
       <img src="https://img.shields.io/badge/GraphQL-0000FF?style=flat-square&logo=graphql&logoColor=FFFFFF" alt="GraphQL" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-FF0000?style=flat-square&logo=mongodb&logoColor=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MongoDB-FF0000?style=flat-square&logo=mongodb&logoColor=000000" alt="MongoDB" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-00FF00?style=flat-square&logo=postgresql&logoColor=000000" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
@@ -65,32 +70,33 @@
       <img src="https://img.shields.io/badge/AWS-0000FF?style=flat-square&logo=amazonaws&logoColor=FFFFFF" alt="AWS" />
       <img src="https://img.shields.io/badge/Hardhat-FF0000?style=flat-square&logo=ethereum&logoColor=000000" alt="Hardhat" />
       <img src="https://img.shields.io/badge/Slither-00FF00?style=flat-square&logo=python&logoColor=000000" alt="Slither" />
+      <img src="https://img.shields.io/badge/CI%2FCD-FF00FF?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="CI/CD" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Masterworks: My Digital Shogunate
+### 🚀 Masterworks: My Neon Legacy
 
 <div align="center">
   <table style="border: none;">
     <tr>
       <td align="center">
         <h4>🗳️ Nexus DAO</h4>
-        <p>A decentralized governance DApp built with Solidity and OpenZeppelin. Transparent voting with cyberpunk flair. <b>Trust forged in code.</b></p>
+        <p>A decentralized governance platform with Solidity and OpenZeppelin. Transparent, secure, neon-charged. <b>Trust forged in code.</b></p>
         <a href="https://github.com/Foolad1108/nexus-dao"><img src="https://img.shields.io/badge/GitHub-00FF00?style=flat-square&logo=github&logoColor=000000" alt="GitHub" /></a>
       </td>
       <td align="center">
         <h4>💪 FitCipher</h4>
-        <p>A Web3 fitness tracker rewarding users with tokens via Solana and AI-driven analytics. <b>Sweat meets decentralization.</b></p>
+        <p>A Web3 fitness DApp rewarding users with tokens via Solana and AI analytics. <b>Sweat meets blockchain.</b></p>
         <a href="https://github.com/Foolad1108/fitcipher"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <h4>🕵️ Veiled Yield</h4>
-        <p>A DeFi yield farming protocol with optimized smart contracts and a Next.js frontend. <b>Harvest the neon frontier.</b></p>
+        <p>A DeFi yield farming protocol with gas-optimized contracts and a sleek Next.js frontend. <b>Harvest the neon frontier.</b></p>
         <a href="https://github.com/Foolad1108/veiled-yield"><img src="https://img.shields.io/badge/GitHub-0000FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
       <td align="center">
@@ -104,11 +110,11 @@
 
 ---
 
-### 🌟 My Code, My Rebellion
+### 🌟 My Code, My Shogunate
 
 <div align="center">
-  <p>I code to build a decentralized cosmos where trust is immutable and innovation is limitless. Inspired by cyberpunk chaos and martial arts discipline, I craft systems that are secure, scalable, and eternal.</p>
-  <p><b>My code is my katana. My projects are my shogunate.</b></p>
+  <p>I code to forge a decentralized future where trust is immutable and innovation knows no bounds. Inspired by the neon chaos of cyberpunk and the discipline of martial arts, I craft systems that are secure, scalable, and eternal.</p>
+  <p><b>My code is my rebellion. My projects are my shogunate.</b></p>
   <img src="https://img.shields.io/badge/Mantra-1108_%7C_غ_ق_ح-00FF00?style=for-the-badge" alt="Mantra" />
 </div>
 
@@ -126,7 +132,7 @@
 
 ---
 
-### 🌐 Connect with the Neon Forger
+### 🌐 Connect with the Neon Shogun
 
 <div align="center">
   <a href="https://x.com/Foolad1108"><img src="https://img.shields.io/badge/X-00FF00?style=for-the-badge&logo=x&logoColor=000000" alt="X" /></a>
@@ -138,7 +144,7 @@
 ---
 
 <div align="center">
-  <h3>💾 Code is Power. Forge the Future.</h3>
-  <p><em>Powered by 1108 | غ ق ح | Neon Matrix Core</em></p>
+  <h3>💾 Code is Destiny. Forge the Neon Future.</h3>
+  <p><em>Powered by 1108 | غ ق ح | Neon Matrix Shogunate</em></p>
   <img src="https://img.shields.io/badge/Status-Building_the_Cosmos-00FF00?style=for-the-badge" alt="Status" />
 </div>
