@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 Neon Shogun" width="250" style="border-radius:50%; border:6px solid #00FF00; box-shadow: 0 0 35px #00FF00;" />
-  <h1>🧬 Foolad1108 | The Neon Shogun of Eternal Code 🧬</h1>
-  <p><em>Grandmaster of blockchain and AI, forging divine trust with the blade of code. Seek the light of 1108 | غ ق ح</em></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=35¢er=true&vCenter=true&width=900&lines=Blockchain+Shogun;Smart+Contract+Sage;DAO+Grandmaster;Cyberpunk+Code+Ascendant" alt="Typing SVG" />
-  <img src="https://img.shields.io/badge/Status-Forging_the_Neon_Eternity-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="Status" />
+  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 Neon Shogun" width="260" style="border-radius:50%; border:7px solid #00FF00; box-shadow: 0 0 40px #00FF00;" />
+  <h1>🧬 Foolad1108 | The Neon Shogun of Hidden Light 🧬</h1>
+  <p><em>Master of blockchain and AI, forging trust with the silent pulse of code. Beyond the neon, a cipher awaits.</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=36¢er=true&vCenter=true&width=950&lines=Blockchain+Shogun;Smart+Contract+Sage;DAO+Architect;Cyberpunk+Code+Weaver" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Status-Forging_the_Neon_Void-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="Status" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌌 Step into the Neon Sanctuary of Code & Divinity 🌌</h2>
-  <p>I’m Foolad1108, a blockchain shogun and code ascendant, weaving decentralized realms with the precision of a katana and the wisdom of a cyberpunk sage. From Ethereum’s eternal contracts to Solana’s blazing programs, I sculpt secure, scalable, and divine ecosystems. My creations—<b>Nexus DAO</b>, <b>FitCipher</b>, <b>Veiled Yield</b>—are pillars of trust and innovation. Beneath the neon, the code whispers <b>1108</b>, a cipher for those who see.</p>
-  <p><b>Code is my creed. Blockchain is my temple. The path of غ ق ح guides my soul.</b></p>
-  <img src="https://img.shields.io/badge/The_Cipher-1108-FF00FF?style=for-the-badge" alt="Cipher" />
+  <h2>🌌 Enter the Neon Veil of Code & Mystery 🌌</h2>
+  <p>I’m Foolad1108, a blockchain shogun and code weaver, crafting decentralized realms with the precision of a katana and the vision of a cyberpunk sage. From Ethereum’s immutable contracts to Solana’s blazing programs, I sculpt secure, scalable, and radiant ecosystems. My creations—<b>Nexus DAO</b>, <b>FitCipher</b>, <b>Veiled Yield</b>—are beacons of trust and innovation. Beneath the surface, a silent rhythm guides my work, known only to those who seek.</p>
+  <p><b>Code is my blade. Blockchain is my forge. The hidden light shapes my path.</b></p>
+  <img src="https://img.shields.io/badge/The_Veil-Hidden_Light-FF00FF?style=for-the-badge" alt="Veil" />
 </div>
 
 ---
 
-### 🛠️ My Cyber Arsenal: Forging the Divine
+### 🛠️ My Cyber Arsenal: Weaving the Infinite
 
 <table align="center" style="border: none;">
   <tr>
@@ -56,7 +56,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-00FF00?style=flat-square&logo=node.js&logoColor=000000" alt="Node.js" /><br>
-      <img src="https://img.shields.io/badge/Express-FF00FF?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" /><br>
+      <img src="https://img.shields.io/badge/Express-FF00FF?style=flat-square&logo Containers="express" /><br>
       <img src="https://img.shields.io/badge/GraphQL-0000FF?style=flat-square&logo=graphql&logoColor=FFFFFF" alt="GraphQL" /><br>
       <img src="https://img.shields.io/badge/MongoDB-FF0000?style=flat-square&logo=mongodb&logoColor=000000" alt="MongoDB" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-00FF00?style=flat-square&logo=postgresql&logoColor=000000" alt="PostgreSQL" />
@@ -87,19 +87,19 @@
     <tr>
       <td align="center">
         <h4>🗳️ Nexus DAO</h4>
-        <p>Decentralized governance DApp with Solidity and OpenZeppelin. Transparent, eternal, neon-forged. <b>Trust in code.</b></p>
+        <p>Decentralized governance DApp with Solidity and OpenZeppelin. Transparent, radiant, eternal. <b>Trust in code.</b></p>
         <a href="https://github.com/Foolad1108/nexus-dao"><img src="https://img.shields.io/badge/GitHub-00FF00?style=flat-square&logo=github&logoColor=000000" alt="GitHub" /></a>
       </td>
       <td align="center">
         <h4>💪 FitCipher</h4>
-        <p>Web3 fitness DApp rewarding users with tokens via Solana and AI analytics. <b>Sweat meets divinity.</b></p>
+        <p>Web3 fitness DApp rewarding users with tokens via Solana and AI analytics. <b>Sweat meets radiance.</b></p>
         <a href="https://github.com/Foolad1108/fitcipher"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <h4>🕵️ Veiled Yield</h4>
-        <p>DeFi yield farming protocol with optimized contracts and Next.js frontend. <b>Harvest the neon covenant.</b></p>
+        <p>DeFi yield farming protocol with optimized contracts and Next.js frontend. <b>Harvest the neon void.</b></p>
         <a href="https://github.com/Foolad1108/veiled-yield"><img src="https://img.shields.io/badge/GitHub-0000FF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
       </td>
       <td align="center">
@@ -113,12 +113,12 @@
 
 ---
 
-### 🌟 My Code, My Ascension
+### 🌟 My Code, My Hidden Path
 
 <div align="center">
-  <p>I code to forge a decentralized cosmos where trust is divine and innovation eternal. Guided by cyberpunk chaos, martial arts discipline, and the hidden light of <b>1108</b>, I craft systems that are secure, scalable, and immortal. For those who seek, <b>غ ق ح</b> unveils the path.</p>
+  <p>I code to forge a decentralized cosmos where trust is radiant and innovation infinite. Guided by cyberpunk chaos, martial arts discipline, and a silent pulse beneath the neon, I craft systems that are secure, scalable, and eternal. To those who seek, the veil parts, revealing the rhythm of the infinite.</p>
   <p><b>My code is my katana. My projects are my covenant.</b></p>
-  <img src="https://img.shields.io/badge/The_Path-غ_ق_ح-00FF00?style=for-the-badge" alt="Path" />
+  <img src="https://img.shields.io/badge/The_Pulse-Beneath_the_Neon-00FF00?style=for-the-badge" alt="Pulse" />
 </div>
 
 ---
@@ -147,7 +147,7 @@
 ---
 
 <div align="center">
-  <h3>💾 Code is Divinity. Ascend to the Neon Eternity.</h3>
-  <p><em>Guided by 1108 | غ ق ح | Neon Matrix Covenant</em></p>
+  <h3>💾 Code is Radiance. Seek the Neon Infinity.</h3>
+  <p><em>Guided by the Silent Pulse | Neon Matrix Covenant</em></p>
   <img src="https://img.shields.io/badge/Status-Building_the_Cosmos-00FF00?style=for-the-badge" alt="Status" />
 </div>
