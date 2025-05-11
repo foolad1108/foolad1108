@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/image.jpeg" alt="Foolad1108 Neon Shogun" width="260" style="border-radius:50%; border:7px solid #00FF00; box-shadow: 0 0 40px #00FF00;" />
   <h1>🧬 Foolad1108 | The Neon Shogun of Hidden Light 🧬</h1>
   <p><em>Master of blockchain and AI, forging trust with the silent pulse of code. Beyond the neon, a cipher awaits.</em></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=36&center=true&vCenter=true&width=950&lines=Blockchain+Shogun;Smart+Contract+Sage;DAO+Architect;Cyberpunk+Code+Weaver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=36¢er=true&vCenter=true&width=950&lines=Blockchain+Shogun;Smart+Contract+Sage;DAO+Architect;Cyberpunk+Code+Weaver" alt="Typing SVG" />
   <img src="https://img.shields.io/badge/Status-Forging_the_Neon_Void-00FF00?style=for-the-badge&logo=git&logoColor=000000" alt="Status" />
 </div>
 
@@ -170,6 +170,6 @@ I’m not just a coder—I’m a neon architect forging a decentralized future w
 <div align="center">
   <h3>💾 Code is Radiance. Seek the Neon Infinity.</h3>
   <p><em>Guided by the Silent Pulse | Neon Matrix Covenant</em></p>
-  <img src="https://raw.githubusercontent.com/Foolad1108/Foolad1108/main/assets/neon-sword.gif" alt="Neon Sword" width="300" />
+  <img src="https://i.imgur.com/9b3zK7i.gif" alt="Neon Sword" width="300" />
   <img src="https://img.shields.io/badge/Status-Building_the_Cosmos-00FF00?style=for-the-badge" alt="Status" />
 </div>
